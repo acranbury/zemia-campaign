@@ -1,0 +1,1952 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="opxsl.xslt" type="text/xsl"?>
+<campaign version="0.1">
+  <id>http://zemia.obsidianportal.com/wikis/98873/new</id>
+  <link>http://zemia.obsidianportal.com/wikis/zemia/new</link>
+  <title>Zemia</title>
+  <blog>
+    <entry gm_only="false">
+      <id>http://zemia.obsidianportal.com/adventure-log/1429256</id>
+      <link>http://zemia.obsidianportal.com/adventure-log/welcome-to-your-campaign</link>
+      <title>Welcome to your campaign!</title>
+      <published>2014-09-13T01:25:05Z</published>
+      <content gm_only="false" format="textile">Wondering how to get started? Here are a few tips:
+
+      h4. &lt;a href="/settings/player-management-settings"&gt;1. Invite your players&lt;/a&gt;
+
+      Invite them with either their email address or their Obsidian Portal username.
+
+      h4. &lt;a href="/wiki_pages/home-page/edit"&gt;2. Edit your home page&lt;/a&gt;
+
+      Make a few changes to the home page and give people an idea of what your campaign is about. That will let people know you're serious and not just playing with the system.
+
+      h4. &lt;a href="/settings/style-settings"&gt;3. Choose a theme&lt;/a&gt;
+
+      If you want to set a specific mood for your campaign, we have several backgrounds to choose from. Accentuate it by creating a top banner image.
+
+      h4. &lt;a href="/characters"&gt;4. Create some NPCs&lt;/a&gt;
+
+      Characters form the core of every campaign, so take a few minutes to list out the major NPCs in your campaign.
+
+      A quick tip: The "+" icon in the top right of every section is how to add a new item, whether it's a new character or adventure log post, or anything else.
+
+      h4. &lt;a href="/posts/new"&gt;5. Write your first Adventure Log post&lt;/a&gt;
+
+      The adventure log is where you list the sessions and adventures your party has been on, but for now, we suggest doing a very light "story so far" post. Just give a brief overview of what the party has done up to this point. After each future session, create a new post detailing that night's adventures.
+
+      *One final tip*: Don't stress about making your Obsidian Portal campaign look perfect. Instead, just make it work for you and your group. If everyone is having fun, then you're using Obsidian Portal exactly as it was designed, even if your adventure log isn't always up to date or your characters don't all have portrait pictures.
+
+      That's it! The rest is up to your and your players.
+      </content>
+      <content gm_only="true" format="html">&lt;p&gt;Wondering how to get started? Here are a few tips:&lt;/p&gt;
+      &lt;h4&gt;&lt;a href="/settings/player-management-settings"&gt;1. Invite your players&lt;/a&gt;&lt;/h4&gt;
+      &lt;p&gt;Invite them with either their email address or their Obsidian Portal username.&lt;/p&gt;
+      &lt;h4&gt;&lt;a href="/wiki_pages/home-page/edit"&gt;2. Edit your home page&lt;/a&gt;&lt;/h4&gt;
+      &lt;p&gt;Make a few changes to the home page and give people an idea of what your campaign is about. That will let people know you&amp;#8217;re serious and not just playing with the system.&lt;/p&gt;
+      &lt;h4&gt;&lt;a href="/settings/style-settings"&gt;3. Choose a theme&lt;/a&gt;&lt;/h4&gt;
+      &lt;p&gt;If you want to set a specific mood for your campaign, we have several backgrounds to choose from. Accentuate it by creating a top banner image.&lt;/p&gt;
+      &lt;h4&gt;&lt;a href="/characters"&gt;4. Create some NPCs&lt;/a&gt;&lt;/h4&gt;
+      &lt;p&gt;Characters form the core of every campaign, so take a few minutes to list out the major NPCs in your campaign.&lt;/p&gt;
+      &lt;p&gt;A quick tip: The &amp;#8220;+&amp;#8221; icon in the top right of every section is how to add a new item, whether it&amp;#8217;s a new character or adventure log post, or anything else.&lt;/p&gt;
+      &lt;h4&gt;&lt;a href="/posts/new"&gt;5. Write your first Adventure Log post&lt;/a&gt;&lt;/h4&gt;
+      &lt;p&gt;The adventure log is where you list the sessions and adventures your party has been on, but for now, we suggest doing a very light &amp;#8220;story so far&amp;#8221; post. Just give a brief overview of what the party has done up to this point. After each future session, create a new post detailing that night&amp;#8217;s adventures.&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;One final tip&lt;/strong&gt;: Don&amp;#8217;t stress about making your Obsidian Portal campaign look perfect. Instead, just make it work for you and your group. If everyone is having fun, then you&amp;#8217;re using Obsidian Portal exactly as it was designed, even if your adventure log isn&amp;#8217;t always up to date or your characters don&amp;#8217;t all have portrait pictures.&lt;/p&gt;
+      &lt;p&gt;That&amp;#8217;s it! The rest is up to your and your players.&lt;/p&gt;</content>
+      <content gm_only="true" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+    </entry>
+  </blog>
+  <wiki>
+    <page gm_only="false">
+      <id>http://zemia.obsidianportal.com/wiki_pages/1429254</id>
+      <link>http://zemia.obsidianportal.com/wiki_pages/home-page</link>
+      <title>Home Page</title>
+      <published>2014-09-13T01:25:04Z</published>
+      <content gm_only="false" format="textile">h2. Welcome to Zemia.
+
+      I hope you enjoy your stay!
+
+      Click [[Main Page | here]] for the main page of the wiki. Feel free to flesh out the page on your character, ideally find a picture to use so we have a better idea of the appearance of them.</content>
+            <content gm_only="true" format="html">&lt;h2&gt;Welcome to Zemia.&lt;/h2&gt;
+      &lt;p&gt;I hope you enjoy your stay!&lt;/p&gt;
+      &lt;p&gt;Click &lt;a href="/wikis/main-page" class="wiki-page-link"&gt; here&lt;/a&gt; for the main page of the wiki. Feel free to flesh out the page on your character, ideally find a picture to use so we have a better idea of the appearance of them.&lt;/p&gt;</content>
+      <content gm_only="true" format="textile">[[Encounters]]
+
+      TODO:
+      * Books
+      ** Compass Manufacturing
+      *** Crafted
+      **** Need certain expense for compass
+      **** See crafting rules
+      **** Then Lord of the Mists can 'bless' the compass
+      *** Artifact
+      **** Requires an artifact as a focus for the spell
+      **** Noble family has artifact on display in their estate/manor/villa
+      ** Large Magics - Bore closing
+      *** Wall of Stone
+      **** 5th-level, 10 minutes concentration
+      **** 10 10'*10'*6" panels, any shape desired
+      **** Panels have AC 15 30 hp per inch of thickness
+      **** Would have to repeatedly cast to seal the bore with any serious wall
+      *** Earthquake
+      **** 8th-level, up to one minute concentration
+      **** Would completely collapse the cave over the course of the minute
+      * Flesh out Nobles and noble houses
+      * City maps</content>
+      <content gm_only="true" format="html">&lt;p&gt;&lt;a href="/wikis/encounters" class="wiki-page-link"&gt;Encounters&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;span class="caps"&gt;TODO&lt;/span&gt;:&lt;/p&gt;
+      &lt;ul&gt;
+      	&lt;li&gt;Books
+      	&lt;ul&gt;
+      		&lt;li&gt;Compass Manufacturing
+      		&lt;ul&gt;
+      			&lt;li&gt;Crafted
+      			&lt;ul&gt;
+      				&lt;li&gt;Need certain expense for compass&lt;/li&gt;
+      				&lt;li&gt;See crafting rules&lt;/li&gt;
+      				&lt;li&gt;Then Lord of the Mists can &amp;#8216;bless&amp;#8217; the compass&lt;/li&gt;
+      			&lt;/ul&gt;&lt;/li&gt;
+      			&lt;li&gt;Artifact
+      			&lt;ul&gt;
+      				&lt;li&gt;Requires an artifact as a focus for the spell&lt;/li&gt;
+      				&lt;li&gt;Noble family has artifact on display in their estate/manor/villa&lt;/li&gt;
+      			&lt;/ul&gt;&lt;/li&gt;
+      		&lt;/ul&gt;&lt;/li&gt;
+      		&lt;li&gt;Large Magics &amp;#8211; Bore closing
+      		&lt;ul&gt;
+      			&lt;li&gt;Wall of Stone
+      			&lt;ul&gt;
+      				&lt;li&gt;5th-level, 10 minutes concentration&lt;/li&gt;
+      				&lt;li&gt;10 10&amp;#8217;*10&amp;#8217;*6&amp;quot; panels, any shape desired&lt;/li&gt;
+      				&lt;li&gt;Panels have AC 15 30 hp per inch of thickness&lt;/li&gt;
+      				&lt;li&gt;Would have to repeatedly cast to seal the bore with any serious wall&lt;/li&gt;
+      			&lt;/ul&gt;&lt;/li&gt;
+      			&lt;li&gt;Earthquake
+      			&lt;ul&gt;
+      				&lt;li&gt;8th-level, up to one minute concentration&lt;/li&gt;
+      				&lt;li&gt;Would completely collapse the cave over the course of the minute&lt;/li&gt;
+      			&lt;/ul&gt;&lt;/li&gt;
+      		&lt;/ul&gt;&lt;/li&gt;
+      	&lt;/ul&gt;&lt;/li&gt;
+      	&lt;li&gt;Flesh out Nobles and noble houses&lt;/li&gt;
+      	&lt;li&gt;City maps&lt;/li&gt;
+      &lt;/ul&gt;</content>
+    </page>
+    <page gm_only="false">
+      <id>http://zemia.obsidianportal.com/wiki_pages/1429255</id>
+      <link>http://zemia.obsidianportal.com/wiki_pages/main-page</link>
+      <title>Main Page</title>
+      <published>2014-09-13T01:25:05Z</published>
+      <content gm_only="false" format="textile">h3. Welcome to Zemia!
+
+      Explore the beautiful forests of Drakon, or the harsh wilderness of Zhestok. Mountains and rivers, fields and deserts, marshes and caves! Loathsome monsters lurking in the shadows, thirsting for blood. Wondrous magical creatures and items to aid you in your struggle. 
+
+      Will you aid the humans in their quest for racial glory? Or search for answers to the mystery of Anya's disappearance? Can you find treasures in the ruins of Drakon's former splendour? Regardless of your path, you are sure to etch your legacy into Zemia itself!
+
+      h3. Places
+
+      [[The Isle of Mists]]
+      [[Drakon]]
+      [[Zhestok]]
+
+      h3. Characters
+
+      [[Party]]
+      [[NPCs]]
+
+      h3. HTML and Textile
+
+      To style things how you want, we use a simple formatting language called &lt;a href="http://redcloth.org/hobix.com/textile/"&gt;Textile&lt;/a&gt;.  Textile is easy to learn and simultaneously allows for lots of customization.
+
+      HTML is also allowed, but there seems to be some weird stuff, for example rowspan and colspan attributes are stripped for some reason.
+      </content>
+      <content gm_only="true" format="html">&lt;h3&gt;Welcome to Zemia!&lt;/h3&gt;
+      &lt;p&gt;Explore the beautiful forests of Drakon, or the harsh wilderness of Zhestok. Mountains and rivers, fields and deserts, marshes and caves! Loathsome monsters lurking in the shadows, thirsting for blood. Wondrous magical creatures and items to aid you in your struggle.&lt;/p&gt;
+      &lt;p&gt;Will you aid the humans in their quest for racial glory? Or search for answers to the mystery of Anya&amp;#8217;s disappearance? Can you find treasures in the ruins of Drakon&amp;#8217;s former splendour? Regardless of your path, you are sure to etch your legacy into Zemia itself!&lt;/p&gt;
+      &lt;h3&gt;Places&lt;/h3&gt;
+      &lt;p&gt;&lt;a href="/wikis/the-isle-of-mists" class="wiki-page-link"&gt;The Isle of Mists&lt;/a&gt;&lt;br /&gt;
+      &lt;a href="/wikis/drakon" class="wiki-page-link"&gt;Drakon&lt;/a&gt;&lt;br /&gt;
+      &lt;a href="/wikis/zhestok" class="wiki-page-link"&gt;Zhestok&lt;/a&gt;&lt;/p&gt;
+      &lt;h3&gt;Characters&lt;/h3&gt;
+      &lt;p&gt;&lt;a href="/wikis/party" class="wiki-page-link"&gt;Party&lt;/a&gt;&lt;br /&gt;
+      &lt;a href="/wikis/npcs" class="wiki-page-link"&gt;NPCs&lt;/a&gt;&lt;/p&gt;
+      &lt;h3&gt;&lt;span class="caps"&gt;HTML&lt;/span&gt; and Textile&lt;/h3&gt;
+      &lt;p&gt;To style things how you want, we use a simple formatting language called &lt;a href="http://redcloth.org/hobix.com/textile/"&gt;Textile&lt;/a&gt;.  Textile is easy to learn and simultaneously allows for lots of customization.&lt;/p&gt;
+      &lt;p&gt;&lt;span class="caps"&gt;HTML&lt;/span&gt; is also allowed, but there seems to be some weird stuff, for example rowspan and colspan attributes are stripped for some reason.&lt;/p&gt;</content>
+      <content gm_only="true" format="textile">h3. Worldbuilding Checklist
+      [[Economy]]
+      [[Government]]
+      [[The Land]]
+      [[Society and Culture]]
+      [[Magic and Science]]
+
+
+      h3. Events
+      [[The Fall of Akarat]]
+      [[Doomsday]]
+
+      h3. Undiscovered Places
+      [[The Forgotten Isle]]
+
+      h3. Misc
+      [[Encounters]]</content>
+      <content gm_only="true" format="html">&lt;h3&gt;Worldbuilding Checklist&lt;br /&gt;
+      &lt;a href="/wikis/economy" class="wiki-page-link"&gt;Economy&lt;/a&gt;&lt;br /&gt;
+      &lt;a href="/wikis/government" class="wiki-page-link"&gt;Government&lt;/a&gt;&lt;br /&gt;
+      &lt;a href="/wikis/the-land" class="wiki-page-link"&gt;The Land&lt;/a&gt;&lt;br /&gt;
+      &lt;a href="/wikis/society-and-culture" class="wiki-page-link"&gt;Society and Culture&lt;/a&gt;&lt;br /&gt;
+      &lt;a href="/wikis/magic-and-science" class="wiki-page-link"&gt;Magic and Science&lt;/a&gt;&lt;/h3&gt;
+      &lt;h3&gt;Events&lt;br /&gt;
+      &lt;a href="/wikis/the-fall-of-akarat" class="wiki-page-link"&gt;The Fall of Akarat&lt;/a&gt;&lt;br /&gt;
+      &lt;a href="/wikis/doomsday" class="wiki-page-link"&gt;Doomsday&lt;/a&gt;&lt;/h3&gt;
+      &lt;h3&gt;Undiscovered Places&lt;br /&gt;
+      &lt;a href="/wikis/the-forgotten-isle" class="wiki-page-link"&gt;The Forgotten Isle&lt;/a&gt;&lt;/h3&gt;
+      &lt;h3&gt;Misc&lt;br /&gt;
+      &lt;a href="/wikis/encounters" class="wiki-page-link"&gt;Encounters&lt;/a&gt;&lt;/h3&gt;</content>
+    </page>
+    <page gm_only="true">
+      <id>http://zemia.obsidianportal.com/wiki_pages/1429257</id>
+      <link>http://zemia.obsidianportal.com/wiki_pages/encounters</link>
+      <title>Encounters</title>
+      <published>2014-09-13T01:27:54Z</published>
+      <content gm_only="false" format="textile">[[Chase Scene]]
+
+[[Bar Fight]]</content>
+      <content gm_only="true" format="html">&lt;p&gt;&lt;a href="/wikis/chase-scene" class="wiki-page-link"&gt;Chase Scene&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="/wikis/bar-fight" class="wiki-page-link"&gt;Bar Fight&lt;/a&gt;&lt;/p&gt;</content>
+      <content gm_only="true" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+    </page>
+    <page gm_only="true">
+      <id>http://zemia.obsidianportal.com/wiki_pages/1429258</id>
+      <link>http://zemia.obsidianportal.com/wiki_pages/chase-scene</link>
+      <title>Chase Scene</title>
+      <published>2014-09-13T01:28:16Z</published>
+      <content gm_only="false" format="textile">h3. Hook: 
+
+The heroes witness an assassin shoot down an important dignitary on the streets of Market Town. The assassin discards his crossbow and darts into a crowded market, where he is difficult to spot, but his rough, shabby appearance makes it difficult for him to hide completely. The heroes are the only ones who have seen the assassin. NPCs are tending to the dignitary. Can the heroes catch the assassin before he disappears?
+
+h3. The Chase: 
+
+During the chase, measure the distance from the assassin to the heroes in spaces, each one representing an arbitrary distance. You can use a marked diagram if you’d like to give the heroes a visual aid. In general, any action the heroes take to speed themselves up should move them one space closer to the assassin. Any action the heroes take to slow the assassin should move all of the heroes one space closer (representing the assassin losing ground) except the hero who took the action (who probably had to stop running to take the action). Modify this as you see fit based on the action. Explain to the players that they are maintaining a steady pace, not running all out, but pacing themselves and avoiding the hazards of the city around them.
+
+The chase itself plays out in a series of rounds during which each hero will have the opportunity to take an action or react to the environment. During the chase, the assassin will lead them through several different neighbourhoods and districts. Ultimately, the assassin is trying to reach the Scumm and Villainy Bar in Crimetown. The owner is a friend of his and maintains a secret back room the assassin can vanish into. The owner will cover for him.
+The heroes begin the space five spaces behind the assassin. If, at any point, none of the heroes is within seven spaces of the assassin, the assassin ducks into an alley and disappears, escaping.
+
+h3. The Rooftops: 
+
+During the chase, one or more of the heroes can try to gain the rooftops to make the chase easier. This option is called out twice during the chase, but players should be able to do so at any time. During the round in which the player climbs up to the rooftops, they lose a space. Thereafter, they must attempt a skill check each round to navigate the rooftops. If they fail, they fall to the streets, lose a space, and take falling damage. If they succeed, they gain a space. Heroes on the rooftops may jump down at any time with a skill check. If they succeed, they continue the chase. If they fail, they take falling damage and lose a space.
+
+h3. Round 1: &lt;b&gt;The Market&lt;/b&gt;
+
+The assassin barrels through a crowded market which makes it slow going for both himself and the heroes. Allow the players to take an action to mitigate the crowd. Also, call attention to the bunting and streamers hanging down from the low rooftops and market stalls to suggest the idea of climbing onto the rooftops. If a hero does something to mitigate or disperse the crowd, allow that hero (or all the heroes based on the action) to gain a space. If a hero attempts to predict the assassin’s route, allow them to make a skill check as described in the next round.
+
+h3. Round 2: &lt;b&gt;The Market&lt;/b&gt;
+
+The assassin continues to make his way through the thick crowd. Continue as you did in the previous round, but don’t call further attention to the rooftops. However, ask everyone to make a skill check to check their &lt;b&gt;knowledge of the city&lt;/b&gt;. The check should be difficult.
+
+If the check succeeds, tell the player that the assassin’s rough clothing and demeanour would make it difficult for him to vanish here in Market Town. He may be running for the &lt;b&gt;bridge to Crime Town&lt;/b&gt;, a slum neighbourhood across the river, where he may be able to go to ground. Warn them, however, that the information is just a guess and could be wrong.
+
+If any of the PCs ask, they can navigate a shortcut through the city. Ask them to make a skill check as they cut into an alley, but warn them that, if they fail to navigate, they will end up lost and be out of the chase.
+
+h3. Round 3: &lt;b&gt;The Side Street&lt;/b&gt;
+
+The assassin bursts out of the market and into a straight side street. The street is not very crowded and provides a nice straight run with no outlets and it offers a clear line of sight. After a moment, also suggest that this might be a good place to &lt;b&gt;sprint&lt;/b&gt; all out, but warn the heroes they might push too hard and fatigue themselves, losing some ground. Allow any heroes who want to to make a skill check to sprint. Move them up a space if they succeed. They lose a space and fall back a bit if they fail. Also, allow any other actions to slow down the assassin you feel might be appropriate in the situation.
+
+h3. Round 4: &lt;b&gt;The Horse Street&lt;/b&gt;
+
+The assassin turns a corner and darts down a street filled with carts, labourers, and draft animals. He takes out a long dagger and slashes at the flank of a horse as he darts past. The terrified animal whinnies and tears itself free of its harness, bolting up the street right toward the heroes, knocking people aside and injuring them as it charges out of control.
+
+Allow the heroes a chance to react to the horse. If they seem intent on ignoring the horse, remind them it is charging right toward them and may run wild through the streets, injuring many people before it is caught and calmed down. If no one reacts, ask each hero to make a save. If they fail, they lose a space. If one of the heroes attempts to calm or capture the horse, he can prevent the rest of the heroes from having to make saves if successful.
+
+If someone ends up on a horse somehow and takes control of it (which should be a difficult maneuver), allow them to gain a space. Thereafter, they gain two spaces every round until the heroes reach the Crimetown Alleys, whereupon the horse will not enter the narrow streets and will have to be abandoned.
+
+h3. Round 5: &lt;b&gt;The Winding Street&lt;/b&gt;
+
+If there is a hero navigating the back alleys, ask for a second skill check as they attempt to find the shortcut to the bridge.
+
+Meanwhile, the assassin darts down a winding, curved street, crowded with citizens. Describe the street and the chase, but the winding road doesn’t allow clean lines of sight or let the heroes sprint. In all likelihood, the heroes will not be able to do much here.
+
+h3. Round 6: &lt;b&gt;The Crimetown Bridge&lt;/b&gt;
+
+The bridge to Crimetown crosses a wide, slow-moving river. It is not terribly crowded, but there are a few people milling about on the bridge and numerous market stalls.
+
+If the hero navigating the shortcut succeeded on both skill checks, he bursts onto the bridge ahead of the assassin and can attempt to tackle him. This should be a moderate check. If it fails, allow him to pick up the chase one space behind the assassin.
+
+Now, the assassin slashes at a passerby on the bridge and shoves him over the railing. The citizen begins flailing into the water, bleeding freely. He is in imminent danger of drowning or bleeding to death. The other people on the bridge look shocked and alarmed, but no one is jumping into help him.
+
+If there are any heroes on the rooftops, they will have to jump down as the river is too wide to continue their path. A hero might attempt to jump directly into the river to save the drowning man.
+
+Meanwhile, heroes on the bridge can sprint after assassin, gaining ground as they could in the Side Street. If someone leaps into the river to rescue the citizen, allow them to do so with an easy check, but they can’t rejoin the race as the rescue takes too long.
+
+h3. Round 7: &lt;b&gt;The Crimetown Streets&lt;/b&gt;
+
+The assassin enters the rundown, dirty streets of Crimetown. At this point, if no one is within three spaces of the assassin, he darts into a side alley and disappears. Allow the closest hero a difficult skill check to spot his &lt;b&gt;hiding place&lt;/b&gt; to continue the chase. If the hero spots him, he will realize it and bolt again, but the delay was enough to let every hero gain a space. If the heroes try to bluff or stalk the hidden assassin, he will remain hidden for a few minutes and then slowly make his way to the Scumm and Villainy Bar and Grill. The heroes should be able to ambush him with a skill check or two.
+
+If the assassin doesn’t attempt to hide, heroes may take advantage of the straight run to sprint as before or attempt other actions to slow down the assassin. A hero might also try to get back onto the rooftops.
+
+h3. Round 8: &lt;b&gt;The Crime Town Streets&lt;/b&gt;
+
+The long, run-down street continues and the assassin continues running. Allow heroes to sprint or take other actions. In addition, draw attention to the sagging drain pipes, low eaves, and clothes hanging lines to remind the heroes about climbing on to the rooftops again.
+
+h3. Round 9: &lt;b&gt;The Back Alleys&lt;/b&gt;
+
+The assassin darts into the tight back alleys of Crime Town. A horse will not ride into these narrow alleys beneath low overhangs. If no hero is within two spaces of the assassin or on the rooftops within four spaces of the assassin, the assassin disappears. Allow the closest hero a difficult skill check to spot his hiding place (as on the Crime Town Streets). Otherwise, the assassin gets away. Otherwise, few actions are possible here, but allow creative heroes a chance to close the distance.
+
+h3. Round 10: &lt;b&gt;The Crime Town Market&lt;/b&gt;
+
+The assassin emerges from the alleys into a crowded market filled with dirty, grubby tents and poor merchants, citizens, and criminals. The crowd impedes both the assassin and the heroes. Allow the heroes a chance to mitigate the crowd and catch up, gaining a space.
+
+h3. End: &lt;b&gt;The Scumm and Villainy Bar and Grill&lt;/b&gt;
+
+The assassin ducks into the Scumm and Villainy Bar and Grill. Any hero within two spaces knows where the assassin went. However, the assassin disappears into a secret room immediately after entering and the owner covers for him. The heroes will have to ransack the place or question the owner and may end up in a [[Bar Fight | fight]], but that’s a different encounter.
+</content>
+      <content gm_only="true" format="html">&lt;h3&gt;Hook:&lt;/h3&gt;
+&lt;p&gt;The heroes witness an assassin shoot down an important dignitary on the streets of Market Town. The assassin discards his crossbow and darts into a crowded market, where he is difficult to spot, but his rough, shabby appearance makes it difficult for him to hide completely. The heroes are the only ones who have seen the assassin. NPCs are tending to the dignitary. Can the heroes catch the assassin before he disappears?&lt;/p&gt;
+&lt;h3&gt;The Chase:&lt;/h3&gt;
+&lt;p&gt;During the chase, measure the distance from the assassin to the heroes in spaces, each one representing an arbitrary distance. You can use a marked diagram if you’d like to give the heroes a visual aid. In general, any action the heroes take to speed themselves up should move them one space closer to the assassin. Any action the heroes take to slow the assassin should move all of the heroes one space closer (representing the assassin losing ground) except the hero who took the action (who probably had to stop running to take the action). Modify this as you see fit based on the action. Explain to the players that they are maintaining a steady pace, not running all out, but pacing themselves and avoiding the hazards of the city around them.&lt;/p&gt;
+&lt;p&gt;The chase itself plays out in a series of rounds during which each hero will have the opportunity to take an action or react to the environment. During the chase, the assassin will lead them through several different neighbourhoods and districts. Ultimately, the assassin is trying to reach the Scumm and Villainy Bar in Crimetown. The owner is a friend of his and maintains a secret back room the assassin can vanish into. The owner will cover for him.&lt;br /&gt;
+The heroes begin the space five spaces behind the assassin. If, at any point, none of the heroes is within seven spaces of the assassin, the assassin ducks into an alley and disappears, escaping.&lt;/p&gt;
+&lt;h3&gt;The Rooftops:&lt;/h3&gt;
+&lt;p&gt;During the chase, one or more of the heroes can try to gain the rooftops to make the chase easier. This option is called out twice during the chase, but players should be able to do so at any time. During the round in which the player climbs up to the rooftops, they lose a space. Thereafter, they must attempt a skill check each round to navigate the rooftops. If they fail, they fall to the streets, lose a space, and take falling damage. If they succeed, they gain a space. Heroes on the rooftops may jump down at any time with a skill check. If they succeed, they continue the chase. If they fail, they take falling damage and lose a space.&lt;/p&gt;
+&lt;h3&gt;Round 1: &lt;b&gt;The Market&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;The assassin barrels through a crowded market which makes it slow going for both himself and the heroes. Allow the players to take an action to mitigate the crowd. Also, call attention to the bunting and streamers hanging down from the low rooftops and market stalls to suggest the idea of climbing onto the rooftops. If a hero does something to mitigate or disperse the crowd, allow that hero (or all the heroes based on the action) to gain a space. If a hero attempts to predict the assassin’s route, allow them to make a skill check as described in the next round.&lt;/p&gt;
+&lt;h3&gt;Round 2: &lt;b&gt;The Market&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;The assassin continues to make his way through the thick crowd. Continue as you did in the previous round, but don’t call further attention to the rooftops. However, ask everyone to make a skill check to check their &lt;b&gt;knowledge of the city&lt;/b&gt;. The check should be difficult.&lt;/p&gt;
+&lt;p&gt;If the check succeeds, tell the player that the assassin’s rough clothing and demeanour would make it difficult for him to vanish here in Market Town. He may be running for the &lt;b&gt;bridge to Crime Town&lt;/b&gt;, a slum neighbourhood across the river, where he may be able to go to ground. Warn them, however, that the information is just a guess and could be wrong.&lt;/p&gt;
+&lt;p&gt;If any of the PCs ask, they can navigate a shortcut through the city. Ask them to make a skill check as they cut into an alley, but warn them that, if they fail to navigate, they will end up lost and be out of the chase.&lt;/p&gt;
+&lt;h3&gt;Round 3: &lt;b&gt;The Side Street&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;The assassin bursts out of the market and into a straight side street. The street is not very crowded and provides a nice straight run with no outlets and it offers a clear line of sight. After a moment, also suggest that this might be a good place to &lt;b&gt;sprint&lt;/b&gt; all out, but warn the heroes they might push too hard and fatigue themselves, losing some ground. Allow any heroes who want to to make a skill check to sprint. Move them up a space if they succeed. They lose a space and fall back a bit if they fail. Also, allow any other actions to slow down the assassin you feel might be appropriate in the situation.&lt;/p&gt;
+&lt;h3&gt;Round 4: &lt;b&gt;The Horse Street&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;The assassin turns a corner and darts down a street filled with carts, labourers, and draft animals. He takes out a long dagger and slashes at the flank of a horse as he darts past. The terrified animal whinnies and tears itself free of its harness, bolting up the street right toward the heroes, knocking people aside and injuring them as it charges out of control.&lt;/p&gt;
+&lt;p&gt;Allow the heroes a chance to react to the horse. If they seem intent on ignoring the horse, remind them it is charging right toward them and may run wild through the streets, injuring many people before it is caught and calmed down. If no one reacts, ask each hero to make a save. If they fail, they lose a space. If one of the heroes attempts to calm or capture the horse, he can prevent the rest of the heroes from having to make saves if successful.&lt;/p&gt;
+&lt;p&gt;If someone ends up on a horse somehow and takes control of it (which should be a difficult maneuver), allow them to gain a space. Thereafter, they gain two spaces every round until the heroes reach the Crimetown Alleys, whereupon the horse will not enter the narrow streets and will have to be abandoned.&lt;/p&gt;
+&lt;h3&gt;Round 5: &lt;b&gt;The Winding Street&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;If there is a hero navigating the back alleys, ask for a second skill check as they attempt to find the shortcut to the bridge.&lt;/p&gt;
+&lt;p&gt;Meanwhile, the assassin darts down a winding, curved street, crowded with citizens. Describe the street and the chase, but the winding road doesn’t allow clean lines of sight or let the heroes sprint. In all likelihood, the heroes will not be able to do much here.&lt;/p&gt;
+&lt;h3&gt;Round 6: &lt;b&gt;The Crimetown Bridge&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;The bridge to Crimetown crosses a wide, slow-moving river. It is not terribly crowded, but there are a few people milling about on the bridge and numerous market stalls.&lt;/p&gt;
+&lt;p&gt;If the hero navigating the shortcut succeeded on both skill checks, he bursts onto the bridge ahead of the assassin and can attempt to tackle him. This should be a moderate check. If it fails, allow him to pick up the chase one space behind the assassin.&lt;/p&gt;
+&lt;p&gt;Now, the assassin slashes at a passerby on the bridge and shoves him over the railing. The citizen begins flailing into the water, bleeding freely. He is in imminent danger of drowning or bleeding to death. The other people on the bridge look shocked and alarmed, but no one is jumping into help him.&lt;/p&gt;
+&lt;p&gt;If there are any heroes on the rooftops, they will have to jump down as the river is too wide to continue their path. A hero might attempt to jump directly into the river to save the drowning man.&lt;/p&gt;
+&lt;p&gt;Meanwhile, heroes on the bridge can sprint after assassin, gaining ground as they could in the Side Street. If someone leaps into the river to rescue the citizen, allow them to do so with an easy check, but they can’t rejoin the race as the rescue takes too long.&lt;/p&gt;
+&lt;h3&gt;Round 7: &lt;b&gt;The Crimetown Streets&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;The assassin enters the rundown, dirty streets of Crimetown. At this point, if no one is within three spaces of the assassin, he darts into a side alley and disappears. Allow the closest hero a difficult skill check to spot his &lt;b&gt;hiding place&lt;/b&gt; to continue the chase. If the hero spots him, he will realize it and bolt again, but the delay was enough to let every hero gain a space. If the heroes try to bluff or stalk the hidden assassin, he will remain hidden for a few minutes and then slowly make his way to the Scumm and Villainy Bar and Grill. The heroes should be able to ambush him with a skill check or two.&lt;/p&gt;
+&lt;p&gt;If the assassin doesn’t attempt to hide, heroes may take advantage of the straight run to sprint as before or attempt other actions to slow down the assassin. A hero might also try to get back onto the rooftops.&lt;/p&gt;
+&lt;h3&gt;Round 8: &lt;b&gt;The Crime Town Streets&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;The long, run-down street continues and the assassin continues running. Allow heroes to sprint or take other actions. In addition, draw attention to the sagging drain pipes, low eaves, and clothes hanging lines to remind the heroes about climbing on to the rooftops again.&lt;/p&gt;
+&lt;h3&gt;Round 9: &lt;b&gt;The Back Alleys&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;The assassin darts into the tight back alleys of Crime Town. A horse will not ride into these narrow alleys beneath low overhangs. If no hero is within two spaces of the assassin or on the rooftops within four spaces of the assassin, the assassin disappears. Allow the closest hero a difficult skill check to spot his hiding place (as on the Crime Town Streets). Otherwise, the assassin gets away. Otherwise, few actions are possible here, but allow creative heroes a chance to close the distance.&lt;/p&gt;
+&lt;h3&gt;Round 10: &lt;b&gt;The Crime Town Market&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;The assassin emerges from the alleys into a crowded market filled with dirty, grubby tents and poor merchants, citizens, and criminals. The crowd impedes both the assassin and the heroes. Allow the heroes a chance to mitigate the crowd and catch up, gaining a space.&lt;/p&gt;
+&lt;h3&gt;End: &lt;b&gt;The Scumm and Villainy Bar and Grill&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;The assassin ducks into the Scumm and Villainy Bar and Grill. Any hero within two spaces knows where the assassin went. However, the assassin disappears into a secret room immediately after entering and the owner covers for him. The heroes will have to ransack the place or question the owner and may end up in a &lt;a href="/wikis/bar-fight" class="wiki-page-link"&gt; fight&lt;/a&gt;, but that’s a different encounter.&lt;/p&gt;</content>
+      <content gm_only="true" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+    </page>
+    <page gm_only="true">
+      <id>http://zemia.obsidianportal.com/wiki_pages/1429264</id>
+      <link>http://zemia.obsidianportal.com/wiki_pages/bar-fight</link>
+      <title>Bar Fight</title>
+      <published>2014-09-13T01:42:14Z</published>
+      <content gm_only="false" format="textile">h3. Hook
+
+h4. Coming from [[Chase Scene]]
+
+The PCs burst into the Scumm and Villainy Tavern in Crimetown, only to find the assassin disappeared into thin air. Raucous laughter fills the air, which is thick with the stench of too many people in too small an area for too long. A large human, clearly drunk, roughly grabs the serving wench and demands more ale for his table, which is already littered with empty bottles. A Human Guard lounges by the door, eyeing the PCs as they enter. An armoured Dragonborn Soldier nurses an ale at the bar, two seats empty on either side of him, his shield resting against his chair. The innkeeper looks at the adventurers and says, "What're you lot here for?" Can the PCs locate the assassin?
+
+h3. NPCs
+
+If the PCs draw their weapons, the NPCs do as well. If the PCs fight with their fists, so do the NPCs, at least until the innkeeper tosses the berserker his Greataxe (when the berserker is bloodied).
+
+h4. Innkeeper
+
+The Innkeeper won't give up the assassin's location easily, and knows the PCs are looking for him. A bribe 
+
+h4. Human Guard
+
+He eyes the PCs weapons and armour, hoping he can relieve them of some of their money. If a fight breaks out, he'll eagerly jump in to help the berserker. He will also draw his weapon when the berserker does.
+
+h4. Human Berserker
+
+Will initiate the fight if the PCs insult him or bother the innkeeper for too long. Draws his weapon when bloodied, causing the rest of the NPCs to do so as well.
+
+h4. Human Rabble
+
+The rabble at the berserkers table join the fight by using the bottles as improvised weapons, both smashing them into the PCs and hurling them in their direction.
+
+h4. Dragonborn Soldier
+
+The dragonborn soldier perks up when the fight occurs, eager to prove his strength. He honours the PCs decision to fight with arms or not, and only draws his weapon when the PCs do.
+
+h3. Stats
+
+http://kassoon.com/dnd/encounter-builder/487/Bar-Fight/</content>
+      <content gm_only="true" format="html">&lt;h3&gt;Hook&lt;/h3&gt;
+&lt;h4&gt;Coming from &lt;a href="/wikis/chase-scene" class="wiki-page-link"&gt;Chase Scene&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;The PCs burst into the Scumm and Villainy Tavern in Crimetown, only to find the assassin disappeared into thin air. Raucous laughter fills the air, which is thick with the stench of too many people in too small an area for too long. A large human, clearly drunk, roughly grabs the serving wench and demands more ale for his table, which is already littered with empty bottles. A Human Guard lounges by the door, eyeing the PCs as they enter. An armoured Dragonborn Soldier nurses an ale at the bar, two seats empty on either side of him, his shield resting against his chair. The innkeeper looks at the adventurers and says, &amp;#8220;What&amp;#8217;re you lot here for?&amp;#8221; Can the PCs locate the assassin?&lt;/p&gt;
+&lt;h3&gt;NPCs&lt;/h3&gt;
+&lt;p&gt;If the PCs draw their weapons, the NPCs do as well. If the PCs fight with their fists, so do the NPCs, at least until the innkeeper tosses the berserker his Greataxe (when the berserker is bloodied).&lt;/p&gt;
+&lt;h4&gt;Innkeeper&lt;/h4&gt;
+&lt;p&gt;The Innkeeper won&amp;#8217;t give up the assassin&amp;#8217;s location easily, and knows the PCs are looking for him. A bribe&lt;/p&gt;
+&lt;h4&gt;Human Guard&lt;/h4&gt;
+&lt;p&gt;He eyes the PCs weapons and armour, hoping he can relieve them of some of their money. If a fight breaks out, he&amp;#8217;ll eagerly jump in to help the berserker. He will also draw his weapon when the berserker does.&lt;/p&gt;
+&lt;h4&gt;Human Berserker&lt;/h4&gt;
+&lt;p&gt;Will initiate the fight if the PCs insult him or bother the innkeeper for too long. Draws his weapon when bloodied, causing the rest of the NPCs to do so as well.&lt;/p&gt;
+&lt;h4&gt;Human Rabble&lt;/h4&gt;
+&lt;p&gt;The rabble at the berserkers table join the fight by using the bottles as improvised weapons, both smashing them into the PCs and hurling them in their direction.&lt;/p&gt;
+&lt;h4&gt;Dragonborn Soldier&lt;/h4&gt;
+&lt;p&gt;The dragonborn soldier perks up when the fight occurs, eager to prove his strength. He honours the PCs decision to fight with arms or not, and only draws his weapon when the PCs do.&lt;/p&gt;
+&lt;h3&gt;Stats&lt;/h3&gt;
+&lt;p&gt;http://kassoon.com/dnd/encounter-builder/487/Bar-Fight/&lt;/p&gt;</content>
+      <content gm_only="true" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+    </page>
+    <page gm_only="false">
+      <id>http://zemia.obsidianportal.com/wiki_pages/2043341</id>
+      <link>http://zemia.obsidianportal.com/wiki_pages/the-isle-of-mists</link>
+      <title>The Isle of Mists</title>
+      <published>2016-09-02T16:20:10Z</published>
+      <content gm_only="false" format="textile">The Isle of Mists is a small island off the coast of [[Drakon | Drakon]] and is inhabited by Slavers and roaming [[Monsters | monsters]]. The whole island is surrounded by reefs and a thick foggy mist that obscures vision making it near impossible to sail in and out of without some [[Magic Compass | form of aid]].
+
+The island is roughly 100 miles in length and 50 miles wide, with a few bays and inlets along the coastline. There are four major cities on the island, connected by a main road running the length of the island. All of the cities are controlled by Slavers and their main purposes are to support the slave trading network that is the backbone of the island's economy.
+
+h3. Places of Interest
+
+Cities
+[[Silverfield]]
+[[Haverton]]
+[[Drummond's Point]]
+[[Shipmaker Bay]]
+
+Non-Human Settlements
+[[Aerandir's Hut]]
+[[Ruins of Elven City]]
+
+Other
+[[Swamplands]]
+[[Great Tree]]
+[[Hag Hut]]
+[[The Cave]]
+[[The Mine]]
+[[The Grey Keep]]
+
+h3. People
+
+[[:doug | Doug]]
+[[:roce-sadett | Roce Sadett]]
+
+h3. Events</content>
+      <content gm_only="true" format="html">&lt;p&gt;The Isle of Mists is a small island off the coast of &lt;a href="/wikis/drakon" class="wiki-page-link"&gt; Drakon&lt;/a&gt; and is inhabited by Slavers and roaming &lt;a href="/wikis/Monsters/new" class="create-wiki-page-link"&gt; monsters&lt;/a&gt;. The whole island is surrounded by reefs and a thick foggy mist that obscures vision making it near impossible to sail in and out of without some &lt;a href="/wikis/magic-compass" class="wiki-page-link"&gt; form of aid&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The island is roughly 100 miles in length and 50 miles wide, with a few bays and inlets along the coastline. There are four major cities on the island, connected by a main road running the length of the island. All of the cities are controlled by Slavers and their main purposes are to support the slave trading network that is the backbone of the island&amp;#8217;s economy.&lt;/p&gt;
+&lt;h3&gt;Places of Interest&lt;/h3&gt;
+&lt;p&gt;Cities&lt;br /&gt;
+&lt;a href="/wikis/silverfield" class="wiki-page-link"&gt;Silverfield&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Haverton/new" class="create-wiki-page-link"&gt;Haverton&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/drummonds-point" class="wiki-page-link"&gt;Drummond&amp;#8217;s Point&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Shipmaker%20Bay/new" class="create-wiki-page-link"&gt;Shipmaker Bay&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Non-Human Settlements&lt;br /&gt;
+&lt;a href="/wikis/Aerandir%27s%20Hut/new" class="create-wiki-page-link"&gt;Aerandir&amp;#8217;s Hut&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/ruins-of-elven-city" class="wiki-page-link"&gt;Ruins of Elven City&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Other&lt;br /&gt;
+&lt;a href="/wikis/swamplands" class="wiki-page-link"&gt;Swamplands&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Great%20Tree/new" class="create-wiki-page-link"&gt;Great Tree&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Hag%20Hut/new" class="create-wiki-page-link"&gt;Hag Hut&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/The%20Cave/new" class="create-wiki-page-link"&gt;The Cave&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/The%20Mine/new" class="create-wiki-page-link"&gt;The Mine&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/the-grey-keep" class="wiki-page-link"&gt;The Grey Keep&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;People&lt;/h3&gt;
+&lt;p&gt;&lt;a href="/characters/doug" class="wiki-content-link"&gt;Doug&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/characters/roce-sadett" class="wiki-content-link"&gt;Roce Sadett&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Events&lt;/h3&gt;</content>
+      <content gm_only="true" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+    </page>
+    <page gm_only="false">
+      <id>http://zemia.obsidianportal.com/wiki_pages/2043344</id>
+      <link>http://zemia.obsidianportal.com/wiki_pages/party</link>
+      <title>Party</title>
+      <published>2016-09-02T16:21:51Z</published>
+      <content gm_only="false" format="textile">Mike|[[:aerandir | Aerandir]] | [[:aust | Aust]]
+Mark|[[:amrik | Amrik]] (dead)|[[:evendur | Evendur]]
+Nick|[[:sanmo | Sanmo]]
+Jack|[[:varis | Varis]]
+Alyssa|[[:1131650| Tanawyn]]</content>
+      <content gm_only="true" format="html">&lt;p&gt;Mike|&lt;a href="/characters/aerandir" class="wiki-content-link"&gt;Aerandir&lt;/a&gt; | &lt;a href="/characters/aust" class="wiki-content-link"&gt;Aust&lt;/a&gt;&lt;br /&gt;
+Mark|&lt;a href="/characters/amrik" class="wiki-content-link"&gt;Amrik&lt;/a&gt; (dead)|&lt;span class="wiki-content-link-not-found"&gt;&lt;em&gt;Content Not Found: evendur&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;
+Nick|&lt;a href="/characters/sanmo" class="wiki-content-link"&gt;Sanmo&lt;/a&gt;&lt;br /&gt;
+Jack|&lt;a href="/characters/varis" class="wiki-content-link"&gt;Varis&lt;/a&gt;&lt;br /&gt;
+Alyssa|&lt;a href="/characters/1131650" class="wiki-content-link"&gt;Tanawyn&lt;/a&gt;&lt;/p&gt;</content>
+      <content gm_only="true" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+    </page>
+    <page gm_only="false">
+      <id>http://zemia.obsidianportal.com/wiki_pages/2043355</id>
+      <link>http://zemia.obsidianportal.com/wiki_pages/npcs</link>
+      <title>NPCs</title>
+      <published>2016-09-02T16:39:17Z</published>
+      <content gm_only="false" format="textile">h3. Deities
+
+[[:anya | Anya]]
+[[:isten | Isten]]
+
+h3. Nobles
+
+[[:roce-sadett | Roce Sadett]]
+
+h3. Bartenders
+
+h3. Innkeepers
+
+h3. Nobles
+
+h3. Other
+
+[[:doug | Doug]]
+Bvacious
+Bvacious' daughter Breatha
+Arlor the fearless crossbowman
+Sayquay the new [[Lord of the Mists]]</content>
+      <content gm_only="true" format="html">&lt;h3&gt;Deities&lt;/h3&gt;
+&lt;p&gt;&lt;a href="/characters/anya" class="wiki-content-link"&gt;Anya&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/characters/isten" class="wiki-content-link"&gt;Isten&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Nobles&lt;/h3&gt;
+&lt;p&gt;&lt;a href="/characters/roce-sadett" class="wiki-content-link"&gt;Roce Sadett&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Bartenders&lt;/h3&gt;
+&lt;h3&gt;Innkeepers&lt;/h3&gt;
+&lt;h3&gt;Nobles&lt;/h3&gt;
+&lt;h3&gt;Other&lt;/h3&gt;
+&lt;p&gt;&lt;a href="/characters/doug" class="wiki-content-link"&gt;Doug&lt;/a&gt;&lt;br /&gt;
+Bvacious&lt;br /&gt;
+Bvacious&amp;#8217; daughter Breatha&lt;br /&gt;
+Arlor the fearless crossbowman&lt;br /&gt;
+Sayquay the new &lt;a href="/wikis/Lord%20of%20the%20Mists/new" class="create-wiki-page-link"&gt;Lord of the Mists&lt;/a&gt;&lt;/p&gt;</content>
+      <content gm_only="true" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+    </page>
+    <page gm_only="false">
+      <id>http://zemia.obsidianportal.com/wiki_pages/2043387</id>
+      <link>http://zemia.obsidianportal.com/wiki_pages/silverfield</link>
+      <title>Silverfield</title>
+      <published>2016-09-02T17:23:59Z</published>
+      <content gm_only="false" format="textile">h2. About
+
+Silverfield is a city on [[The Isle of Mists | The Isle of Mists]]. Silverfield controls both the largest available farmland on the island as well as [[Silverfield Mine| Silverfield Mine]] (which was first used to mine silver, has since expanded into multiple ores) for which it is named. It takes in tons of raw materials each day, but doesn't process them itself; most are shipped north to Drummond's Point.
+
+h3. Politics
+
+The city is governed by a council of merchant families: Sadett, Tanah, Risol, Noto, and Zuhrukt. These families play off each other for control of the city, all attempting to maximize their family's profits from the island. Many slaves and goods are shipped off the island for sale in Drakon and Zhestok.
+
+h3. Demographics
+
+Silverfield is divided into 4 districts: Slave, Warehouse, Tavern, and Market.
+
+h4. Slave District
+
+The slave district is almost purely slave quarters, mashed together to form a densely populated area. There are no services available here, so sewage lays in the street with the garbage, creating a most awful stench. Houses are made from mud, clay, and thatch, with exceptionally few having any wood in their construction. There is a slave market along the main road, where everything is for sale; food, trinkets, services, and themselves. 
+
+h4. Warehouse District
+
+This is where all the raw materials are stored on their way to the other cities. Warehouses are heavily guarded, and tend to be built right into the walls of the city. Each is owned by a merchant family, with their crests featured prominently on the front of the building, and on the guards' livery. Even the crates inside the warehouses are stamped with the crest. 
+
+h4. Tavern District
+
+The tavern district is filled with tavern, brothels, and living places for the guards of the city. Since the guards have little else to occupy their time when they are off shift, there are a multitude of taverns here. They are usually filled to the brim from sundown to daybreak, guards usually nursing hangovers throughout the day. During the day they have night-shift guards to take care of, but the district is largely quiet during the day with most of the guards working.
+
+h4. Market District
+
+This is where passing merchants sell their wares, guards buy new weapons and armour with the money they earned gambling last night, and some slave trading happens. Most slave trade happens at [[Drummond's Point]], but some does happen here. Noble families also do large amounts of raw material purchasing here, to feed their processing facilities at Drummond's Point.
+
+h3. Liberation
+
+Silverfield has been successfully liberated from the slave traders thanks to the initial infiltration by [[Party | The Party]]. It is now under the control of the former slaves with its main defensive walls well intact. A large majority of the interior wooden buildings have been burned down due to the large fire that broke out during the liberation battle. However, the main armory is intact along with a large cache of weapons and armour.</content>
+      <content gm_only="true" format="html">&lt;h2&gt;About&lt;/h2&gt;
+&lt;p&gt;Silverfield is a city on &lt;a href="/wikis/the-isle-of-mists" class="wiki-page-link"&gt; The Isle of Mists&lt;/a&gt;. Silverfield controls both the largest available farmland on the island as well as &lt;a href="/wikis/silverfield-mine" class="wiki-page-link"&gt; Silverfield Mine&lt;/a&gt; (which was first used to mine silver, has since expanded into multiple ores) for which it is named. It takes in tons of raw materials each day, but doesn&amp;#8217;t process them itself; most are shipped north to Drummond&amp;#8217;s Point.&lt;/p&gt;
+&lt;h3&gt;Politics&lt;/h3&gt;
+&lt;p&gt;The city is governed by a council of merchant families: Sadett, Tanah, Risol, Noto, and Zuhrukt. These families play off each other for control of the city, all attempting to maximize their family&amp;#8217;s profits from the island. Many slaves and goods are shipped off the island for sale in Drakon and Zhestok.&lt;/p&gt;
+&lt;h3&gt;Demographics&lt;/h3&gt;
+&lt;p&gt;Silverfield is divided into 4 districts: Slave, Warehouse, Tavern, and Market.&lt;/p&gt;
+&lt;h4&gt;Slave District&lt;/h4&gt;
+&lt;p&gt;The slave district is almost purely slave quarters, mashed together to form a densely populated area. There are no services available here, so sewage lays in the street with the garbage, creating a most awful stench. Houses are made from mud, clay, and thatch, with exceptionally few having any wood in their construction. There is a slave market along the main road, where everything is for sale; food, trinkets, services, and themselves.&lt;/p&gt;
+&lt;h4&gt;Warehouse District&lt;/h4&gt;
+&lt;p&gt;This is where all the raw materials are stored on their way to the other cities. Warehouses are heavily guarded, and tend to be built right into the walls of the city. Each is owned by a merchant family, with their crests featured prominently on the front of the building, and on the guards&amp;#8217; livery. Even the crates inside the warehouses are stamped with the crest.&lt;/p&gt;
+&lt;h4&gt;Tavern District&lt;/h4&gt;
+&lt;p&gt;The tavern district is filled with tavern, brothels, and living places for the guards of the city. Since the guards have little else to occupy their time when they are off shift, there are a multitude of taverns here. They are usually filled to the brim from sundown to daybreak, guards usually nursing hangovers throughout the day. During the day they have night-shift guards to take care of, but the district is largely quiet during the day with most of the guards working.&lt;/p&gt;
+&lt;h4&gt;Market District&lt;/h4&gt;
+&lt;p&gt;This is where passing merchants sell their wares, guards buy new weapons and armour with the money they earned gambling last night, and some slave trading happens. Most slave trade happens at &lt;a href="/wikis/drummonds-point" class="wiki-page-link"&gt;Drummond&amp;#8217;s Point&lt;/a&gt;, but some does happen here. Noble families also do large amounts of raw material purchasing here, to feed their processing facilities at Drummond&amp;#8217;s Point.&lt;/p&gt;
+&lt;h3&gt;Liberation&lt;/h3&gt;
+&lt;p&gt;Silverfield has been successfully liberated from the slave traders thanks to the initial infiltration by &lt;a href="/wikis/party" class="wiki-page-link"&gt; The Party&lt;/a&gt;. It is now under the control of the former slaves with its main defensive walls well intact. A large majority of the interior wooden buildings have been burned down due to the large fire that broke out during the liberation battle. However, the main armory is intact along with a large cache of weapons and armour.&lt;/p&gt;</content>
+      <content gm_only="true" format="textile">
+</content>
+      <content gm_only="true" format="html"></content>
+    </page>
+    <page gm_only="false">
+      <id>http://zemia.obsidianportal.com/wiki_pages/2043638</id>
+      <link>http://zemia.obsidianportal.com/wiki_pages/the-grey-keep</link>
+      <title>The Grey Keep</title>
+      <published>2016-09-03T02:02:15Z</published>
+      <content gm_only="false" format="textile">An ancient elven keep shrouded in fog on the cliffs of the Isle of Mists. The keep is the ancestral home of the [[Lord of the Mists]], a powerful mysterious figure. The Keep is of dwarven construction, unlike the ruined elven tree city, and features thick, high walls with secret passages throughout the building.
+
+Spectres of the souls of dead elves run the Keep, allowing the Lord to have minimal staff. They appear to be the souls of the elven children who would serve the Lord when the Isle was under elven control. Humans are not welcome in the Grey Keep and will be hunted down by the spectres if they are detected inside the keep. A powerful ward exists to cause great unease in humans approaching, with only the most stalwart warriors able to touch the doors.</content>
+      <content gm_only="true" format="html">&lt;p&gt;An ancient elven keep shrouded in fog on the cliffs of the Isle of Mists. The keep is the ancestral home of the &lt;a href="/wikis/Lord%20of%20the%20Mists/new" class="create-wiki-page-link"&gt;Lord of the Mists&lt;/a&gt;, a powerful mysterious figure. The Keep is of dwarven construction, unlike the ruined elven tree city, and features thick, high walls with secret passages throughout the building.&lt;/p&gt;
+&lt;p&gt;Spectres of the souls of dead elves run the Keep, allowing the Lord to have minimal staff. They appear to be the souls of the elven children who would serve the Lord when the Isle was under elven control. Humans are not welcome in the Grey Keep and will be hunted down by the spectres if they are detected inside the keep. A powerful ward exists to cause great unease in humans approaching, with only the most stalwart warriors able to touch the doors.&lt;/p&gt;</content>
+      <content gm_only="true" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+    </page>
+    <page gm_only="false">
+      <id>http://zemia.obsidianportal.com/wiki_pages/2043977</id>
+      <link>http://zemia.obsidianportal.com/wiki_pages/drakon</link>
+      <title>Drakon</title>
+      <published>2016-09-03T15:34:48Z</published>
+      <content gm_only="false" format="textile">Drakon is one of the two major continents on Zemia, the other being [[Zhestok]]. 
+
+h4. Major Cities
+
+[[Lastport]]
+[[Elvenhome]]
+[[Eversail]]
+[[Southharbour]]
+[[Dhemet]]
+[[Khoret]]
+
+h4. Major Ruins
+
+[[Brynmost]]
+[[Brastlewark]]
+[[Garatham]]
+[[Akarat]]
+[[Dragonport]]</content>
+      <content gm_only="true" format="html">&lt;p&gt;Drakon is one of the two major continents on Zemia, the other being &lt;a href="/wikis/zhestok" class="wiki-page-link"&gt;Zhestok&lt;/a&gt;.&lt;/p&gt;
+&lt;h4&gt;Major Cities&lt;/h4&gt;
+&lt;p&gt;&lt;a href="/wikis/Lastport/new" class="create-wiki-page-link"&gt;Lastport&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Elvenhome/new" class="create-wiki-page-link"&gt;Elvenhome&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/eversail" class="wiki-page-link"&gt;Eversail&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Southharbour/new" class="create-wiki-page-link"&gt;Southharbour&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Dhemet/new" class="create-wiki-page-link"&gt;Dhemet&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Khoret/new" class="create-wiki-page-link"&gt;Khoret&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;Major Ruins&lt;/h4&gt;
+&lt;p&gt;&lt;a href="/wikis/Brynmost/new" class="create-wiki-page-link"&gt;Brynmost&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Brastlewark/new" class="create-wiki-page-link"&gt;Brastlewark&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Garatham/new" class="create-wiki-page-link"&gt;Garatham&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Akarat/new" class="create-wiki-page-link"&gt;Akarat&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Dragonport/new" class="create-wiki-page-link"&gt;Dragonport&lt;/a&gt;&lt;/p&gt;</content>
+      <content gm_only="true" format="textile">h4. Undiscovered Places
+
+[[Temple of the Order of the Dragon]]
+[[Cairnheim]]</content>
+      <content gm_only="true" format="html">&lt;h4&gt;Undiscovered Places&lt;/h4&gt;
+&lt;p&gt;&lt;a href="/wikis/temple-of-the-order-of-the-dragon" class="wiki-page-link"&gt;Temple of the Order of the Dragon&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/cairnheim" class="wiki-page-link"&gt;Cairnheim&lt;/a&gt;&lt;/p&gt;</content>
+    </page>
+    <page gm_only="false">
+      <id>http://zemia.obsidianportal.com/wiki_pages/2043989</id>
+      <link>http://zemia.obsidianportal.com/wiki_pages/drummonds-point</link>
+      <title>Drummond's Point</title>
+      <published>2016-09-03T15:52:32Z</published>
+      <content gm_only="false" format="textile">Drummond's Point is the main landing/docking harbour on [[The Isle of Mists | The Isle of Mists]]. Slaver ships unload their live cargo here for sale at the slave markets. The captains are then forced to travel the length of the island to [[Shipmaker Bay]] in order to reverse the direction of their magical compasses. </content>
+      <content gm_only="true" format="html">&lt;p&gt;Drummond&amp;#8217;s Point is the main landing/docking harbour on &lt;a href="/wikis/the-isle-of-mists" class="wiki-page-link"&gt; The Isle of Mists&lt;/a&gt;. Slaver ships unload their live cargo here for sale at the slave markets. The captains are then forced to travel the length of the island to &lt;a href="/wikis/Shipmaker%20Bay/new" class="create-wiki-page-link"&gt;Shipmaker Bay&lt;/a&gt; in order to reverse the direction of their magical compasses.&lt;/p&gt;</content>
+      <content gm_only="true" format="textile">The city's commerce is dominated by the slave markets and the slave factories. The factories refine the grain and ores produced by [[Silverfield]] into flour and ingots. These refined goods are then packed onto ships and brought over seas to [[Drakon]] and [[Zhestok]].
+
+</content>
+      <content gm_only="true" format="html">&lt;p&gt;The city&amp;#8217;s commerce is dominated by the slave markets and the slave factories. The factories refine the grain and ores produced by &lt;a href="/wikis/silverfield" class="wiki-page-link"&gt;Silverfield&lt;/a&gt; into flour and ingots. These refined goods are then packed onto ships and brought over seas to &lt;a href="/wikis/drakon" class="wiki-page-link"&gt;Drakon&lt;/a&gt; and &lt;a href="/wikis/zhestok" class="wiki-page-link"&gt;Zhestok&lt;/a&gt;.&lt;/p&gt;</content>
+    </page>
+    <page gm_only="false">
+      <id>http://zemia.obsidianportal.com/wiki_pages/2043992</id>
+      <link>http://zemia.obsidianportal.com/wiki_pages/zhestok</link>
+      <title>Zhestok</title>
+      <published>2016-09-03T16:04:40Z</published>
+      <content gm_only="false" format="textile">Zhestok is one of two main continents on the world of Zemia, along with [[Drakon]]. It is the home continent of the human race, and is largely overrun with monsters in non-developed areas. 
+
+h4. Major Cities
+
+[[Windy Cove]]
+[[Wightmarsh]]
+[[Westhaven]]
+[[Greymeadow]]
+[[Snowmount]]</content>
+      <content gm_only="true" format="html">&lt;p&gt;Zhestok is one of two main continents on the world of Zemia, along with &lt;a href="/wikis/drakon" class="wiki-page-link"&gt;Drakon&lt;/a&gt;. It is the home continent of the human race, and is largely overrun with monsters in non-developed areas.&lt;/p&gt;
+&lt;h4&gt;Major Cities&lt;/h4&gt;
+&lt;p&gt;&lt;a href="/wikis/Windy%20Cove/new" class="create-wiki-page-link"&gt;Windy Cove&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Wightmarsh/new" class="create-wiki-page-link"&gt;Wightmarsh&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Westhaven/new" class="create-wiki-page-link"&gt;Westhaven&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Greymeadow/new" class="create-wiki-page-link"&gt;Greymeadow&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Snowmount/new" class="create-wiki-page-link"&gt;Snowmount&lt;/a&gt;&lt;/p&gt;</content>
+      <content gm_only="true" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+    </page>
+    <page gm_only="true">
+      <id>http://zemia.obsidianportal.com/wiki_pages/2058845</id>
+      <link>http://zemia.obsidianportal.com/wiki_pages/the-fall-of-akarat</link>
+      <title>The Fall of Akarat</title>
+      <published>2016-09-22T17:18:22Z</published>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+      <content gm_only="true" format="textile">h2. Outline
+
+# First monster sightings in the north of Drakon
+# Large force of armed orcs, goblins, giants spotted moving towards Akarat
+# Dragonborn muster their forces, requesting aid from humans in Dragonport
+# Anya helps the dragonborn, using her dragon breath from the skies, snatching the largest of the monsters in her claws
+# Isten calmly walks through the battlefield, as a human, hunting after Anya
+# He brings all of his power to bear, plunging her beneath the earth
+# Anya's furious attempts to escape and Isten's eventual success creates Mount Zhar, a continually erupting volcano
+# Panicked dragonborn forces are slaughtered as they turn to run</content>
+      <content gm_only="true" format="html">&lt;h2&gt;Outline&lt;/h2&gt;
+&lt;ol&gt;
+	&lt;li&gt;First monster sightings in the north of Drakon&lt;/li&gt;
+	&lt;li&gt;Large force of armed orcs, goblins, giants spotted moving towards Akarat&lt;/li&gt;
+	&lt;li&gt;Dragonborn muster their forces, requesting aid from humans in Dragonport&lt;/li&gt;
+	&lt;li&gt;Anya helps the dragonborn, using her dragon breath from the skies, snatching the largest of the monsters in her claws&lt;/li&gt;
+	&lt;li&gt;Isten calmly walks through the battlefield, as a human, hunting after Anya&lt;/li&gt;
+	&lt;li&gt;He brings all of his power to bear, plunging her beneath the earth&lt;/li&gt;
+	&lt;li&gt;Anya&amp;#8217;s furious attempts to escape and Isten&amp;#8217;s eventual success creates Mount Zhar, a continually erupting volcano&lt;/li&gt;
+	&lt;li&gt;Panicked dragonborn forces are slaughtered as they turn to run&lt;/li&gt;
+&lt;/ol&gt;</content>
+    </page>
+    <page gm_only="true">
+      <id>http://zemia.obsidianportal.com/wiki_pages/2058857</id>
+      <link>http://zemia.obsidianportal.com/wiki_pages/doomsday</link>
+      <title>Doomsday</title>
+      <published>2016-09-22T17:27:18Z</published>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+      <content gm_only="true" format="textile">Doomsday is the date of the destruction of Snowfall after the first Bore to the Underdark.</content>
+      <content gm_only="true" format="html">&lt;p&gt;Doomsday is the date of the destruction of Snowfall after the first Bore to the Underdark.&lt;/p&gt;</content>
+    </page>
+    <page gm_only="false">
+      <id>http://zemia.obsidianportal.com/wiki_pages/2063246</id>
+      <link>http://zemia.obsidianportal.com/wiki_pages/swamplands</link>
+      <title>Swamplands</title>
+      <published>2016-09-28T02:43:29Z</published>
+      <content gm_only="false" format="textile">The swamplands is an area located near the center of the Isle of Mists, situated between the cities of [[Silverfield | Silverfield]] and [[Haverton | Haverton]]. The main road runs along the east edge of the swamplands, with mainly forest surrounding the rest.
+
+The swamplands are home to the group of tribesmen, including [[:doug | Doug]], as well as many large beasts such as Giant Toads and Giant Snakes.
+
+Located in the center of the swamplands is the [[Ruins of Elven City | Great Elven City]], now in ruin and sparsely populated by tribesmen.</content>
+      <content gm_only="true" format="html">&lt;p&gt;The swamplands is an area located near the center of the Isle of Mists, situated between the cities of &lt;a href="/wikis/silverfield" class="wiki-page-link"&gt; Silverfield&lt;/a&gt; and &lt;a href="/wikis/Haverton/new" class="create-wiki-page-link"&gt; Haverton&lt;/a&gt;. The main road runs along the east edge of the swamplands, with mainly forest surrounding the rest.&lt;/p&gt;
+&lt;p&gt;The swamplands are home to the group of tribesmen, including &lt;a href="/characters/doug" class="wiki-content-link"&gt;Doug&lt;/a&gt;, as well as many large beasts such as Giant Toads and Giant Snakes.&lt;/p&gt;
+&lt;p&gt;Located in the center of the swamplands is the &lt;a href="/wikis/ruins-of-elven-city" class="wiki-page-link"&gt; Great Elven City&lt;/a&gt;, now in ruin and sparsely populated by tribesmen.&lt;/p&gt;</content>
+      <content gm_only="true" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+    </page>
+    <page gm_only="false">
+      <id>http://zemia.obsidianportal.com/wiki_pages/2063251</id>
+      <link>http://zemia.obsidianportal.com/wiki_pages/ruins-of-elven-city</link>
+      <title>Ruins of Elven City</title>
+      <published>2016-09-28T02:52:33Z</published>
+      <content gm_only="false" format="textile">An old Elven city situated near the center of the [[Swamplands | swamplands]]. Now in ruins, it was once a great city full of Elfs who lived in peace before the monsters and slavers came to the island. The city consts of many large and tall trees, where buildings have been build high up in the treetops. The city is quite noticeable from a distance in the swamp due to it containing the only large trees in the surrounding area.
+
+The Elven City was also the home of the [[Great Master | Great Master]] who had sworn to protect the lands of the [[The Isle of Mists | Isle of Mists]] from any danger. After [[Party | the Party]] travels through the Elven city, they explore the ruins and find the chamber of the Great Master, long since dead at the top of the tallest tower. 
+
+Varis assumes the duties of the Great Master after taking the Magic Wooden Shield, Magic Longbow and Eyes of the Eagle mask from the chamber.</content>
+      <content gm_only="true" format="html">&lt;p&gt;An old Elven city situated near the center of the &lt;a href="/wikis/swamplands" class="wiki-page-link"&gt; swamplands&lt;/a&gt;. Now in ruins, it was once a great city full of Elfs who lived in peace before the monsters and slavers came to the island. The city consts of many large and tall trees, where buildings have been build high up in the treetops. The city is quite noticeable from a distance in the swamp due to it containing the only large trees in the surrounding area.&lt;/p&gt;
+&lt;p&gt;The Elven City was also the home of the &lt;a href="/wikis/Great%20Master/new" class="create-wiki-page-link"&gt; Great Master&lt;/a&gt; who had sworn to protect the lands of the &lt;a href="/wikis/the-isle-of-mists" class="wiki-page-link"&gt; Isle of Mists&lt;/a&gt; from any danger. After &lt;a href="/wikis/party" class="wiki-page-link"&gt; the Party&lt;/a&gt; travels through the Elven city, they explore the ruins and find the chamber of the Great Master, long since dead at the top of the tallest tower.&lt;/p&gt;
+&lt;p&gt;Varis assumes the duties of the Great Master after taking the Magic Wooden Shield, Magic Longbow and Eyes of the Eagle mask from the chamber.&lt;/p&gt;</content>
+      <content gm_only="true" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+    </page>
+    <page gm_only="true">
+      <id>http://zemia.obsidianportal.com/wiki_pages/2275866</id>
+      <link>http://zemia.obsidianportal.com/wiki_pages/government</link>
+      <title>Government</title>
+      <published>2017-06-30T15:04:23Z</published>
+      <content gm_only="false" format="textile">[[Crime and Legal System]]
+[[Foreign Relations]]
+[[Politics]]
+[[War]]</content>
+      <content gm_only="true" format="html">&lt;p&gt;&lt;a href="/wikis/Crime%20and%20Legal%20System/new" class="create-wiki-page-link"&gt;Crime and Legal System&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Foreign%20Relations/new" class="create-wiki-page-link"&gt;Foreign Relations&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Politics/new" class="create-wiki-page-link"&gt;Politics&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/War/new" class="create-wiki-page-link"&gt;War&lt;/a&gt;&lt;/p&gt;</content>
+      <content gm_only="true" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+    </page>
+    <page gm_only="true">
+      <id>http://zemia.obsidianportal.com/wiki_pages/2275867</id>
+      <link>http://zemia.obsidianportal.com/wiki_pages/the-land</link>
+      <title>The Land</title>
+      <published>2017-06-30T15:05:20Z</published>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+      <content gm_only="true" format="textile">[[Physical and Historical Features]]
+[[Climate and Geography]]
+[[Population]]
+[[Rural Factors]]
+[[Urban Factors]]</content>
+      <content gm_only="true" format="html">&lt;p&gt;&lt;a href="/wikis/Physical%20and%20Historical%20Features/new" class="create-wiki-page-link"&gt;Physical and Historical Features&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Climate%20and%20Geography/new" class="create-wiki-page-link"&gt;Climate and Geography&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Population/new" class="create-wiki-page-link"&gt;Population&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Rural%20Factors/new" class="create-wiki-page-link"&gt;Rural Factors&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Urban%20Factors/new" class="create-wiki-page-link"&gt;Urban Factors&lt;/a&gt;&lt;/p&gt;</content>
+    </page>
+    <page gm_only="true">
+      <id>http://zemia.obsidianportal.com/wiki_pages/2275868</id>
+      <link>http://zemia.obsidianportal.com/wiki_pages/society-and-culture</link>
+      <title>Society and Culture</title>
+      <published>2017-06-30T15:07:18Z</published>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+      <content gm_only="true" format="textile">[[Arts, Entertainment, and Recreation]]
+[[Calendar]]
+[[Daily Life]]
+[[Diet]]
+[[Education]]
+[[Ethics and Values]]
+[[Fashion and Dress]]
+[[History]]
+[[Language]]
+[[Manners]]
+[[Meeting and Greeting]]
+[[Religion and Philosophy]]
+[[Social Organization]]
+[[Specific Countries]]
+[[Visits]]</content>
+      <content gm_only="true" format="html">&lt;p&gt;&lt;a href="/wikis/Arts%2C%20Entertainment%2C%20and%20Recreation/new" class="create-wiki-page-link"&gt;Arts, Entertainment, and Recreation&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Calendar/new" class="create-wiki-page-link"&gt;Calendar&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Daily%20Life/new" class="create-wiki-page-link"&gt;Daily Life&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Diet/new" class="create-wiki-page-link"&gt;Diet&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Education/new" class="create-wiki-page-link"&gt;Education&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Ethics%20and%20Values/new" class="create-wiki-page-link"&gt;Ethics and Values&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Fashion%20and%20Dress/new" class="create-wiki-page-link"&gt;Fashion and Dress&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/History/new" class="create-wiki-page-link"&gt;History&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Language/new" class="create-wiki-page-link"&gt;Language&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Manners/new" class="create-wiki-page-link"&gt;Manners&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Meeting%20and%20Greeting/new" class="create-wiki-page-link"&gt;Meeting and Greeting&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Religion%20and%20Philosophy/new" class="create-wiki-page-link"&gt;Religion and Philosophy&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Social%20Organization/new" class="create-wiki-page-link"&gt;Social Organization&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Specific%20Countries/new" class="create-wiki-page-link"&gt;Specific Countries&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Visits/new" class="create-wiki-page-link"&gt;Visits&lt;/a&gt;&lt;/p&gt;</content>
+    </page>
+    <page gm_only="true">
+      <id>http://zemia.obsidianportal.com/wiki_pages/2275870</id>
+      <link>http://zemia.obsidianportal.com/wiki_pages/magic-and-science</link>
+      <title>Magic and Science</title>
+      <published>2017-06-30T15:08:13Z</published>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+      <content gm_only="true" format="textile">[[Magic and Magicians]]
+[[Medicine]]
+[[Science and Technology]]
+[[Transportation and Communication]]</content>
+      <content gm_only="true" format="html">&lt;p&gt;&lt;a href="/wikis/Magic%20and%20Magicians/new" class="create-wiki-page-link"&gt;Magic and Magicians&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Medicine/new" class="create-wiki-page-link"&gt;Medicine&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Science%20and%20Technology/new" class="create-wiki-page-link"&gt;Science and Technology&lt;/a&gt;&lt;br /&gt;
+&lt;a href="/wikis/Transportation%20and%20Communication/new" class="create-wiki-page-link"&gt;Transportation and Communication&lt;/a&gt;&lt;/p&gt;</content>
+    </page>
+    <page gm_only="true">
+      <id>http://zemia.obsidianportal.com/wiki_pages/2275871</id>
+      <link>http://zemia.obsidianportal.com/wiki_pages/economy</link>
+      <title>Economy</title>
+      <published>2017-06-30T15:11:03Z</published>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+      <content gm_only="true" format="textile">What goods are produced and where are they produced?
+What are the major trade goods?
+Are there trading centres?
+What economic systems are used?
+Are there banks?
+Do people barter or use money? 
+If money is used, is it valuable itself or is it fiat currency?
+If there is fiat money, who guarantees it?
+What are people’s attitudes toward money?
+What are people’s attitudes toward poverty?
+Are there generally acceptable standards for coins?
+How easy and common is counterfeiting?</content>
+      <content gm_only="true" format="html">&lt;p&gt;What goods are produced and where are they produced?&lt;br /&gt;
+What are the major trade goods?&lt;br /&gt;
+Are there trading centres?&lt;br /&gt;
+What economic systems are used?&lt;br /&gt;
+Are there banks?&lt;br /&gt;
+Do people barter or use money? &lt;br /&gt;
+If money is used, is it valuable itself or is it fiat currency?&lt;br /&gt;
+If there is fiat money, who guarantees it?&lt;br /&gt;
+What are people’s attitudes toward money?&lt;br /&gt;
+What are people’s attitudes toward poverty?&lt;br /&gt;
+Are there generally acceptable standards for coins?&lt;br /&gt;
+How easy and common is counterfeiting?&lt;/p&gt;</content>
+    </page>
+    <page gm_only="false">
+      <id>http://zemia.obsidianportal.com/wiki_pages/2279025</id>
+      <link>http://zemia.obsidianportal.com/wiki_pages/magic-compass</link>
+      <title>Magic Compass</title>
+      <published>2017-07-04T16:41:26Z</published>
+      <content gm_only="false" format="textile">[[File:753840  | class=media-item-align-right | 250x480px | stock-photo-old-brass-compass-on-wood-table-top-view-133856393.jpg]] The slavers on [[The Isle of Mists | The Isle of Mists]] use magic compasses to navigate through the inpenetrable mists around the island. The compasses are usually ornate, and are enchanted using an artifact obtained from [[The Grey Keep | The Grey Keep]]. Navigation to and from the island are considered different by the magic of the island, and a compass used to find the island cannot be used to leave unless its enchantment is modified by the Lort of the Mists.
+
+The Lord of the Mists has complete control over all magic compasses, and can revoke or modify the enchantment whenever they wish. The Lord does not need to physically have the compass in their possession in order to do this, but the compasses seem to react to the thoughts and wishes of the Lord. </content>
+      <content gm_only="true" format="html">&lt;p&gt;&lt;img src="https://db4sgowjqfwig.cloudfront.net/campaigns/98873/assets/753840/stock-photo-old-brass-compass-on-wood-table-top-view-133856393.jpg?1499186731" class="asset-reference image-asset-reference media-item-align-right" data-asset-id="753840" width="250" height="480" alt="stock-photo-old-brass-compass-on-wood-table-top-view-133856393.jpg" title="stock-photo-old-brass-compass-on-wood-table-top-view-133856393.jpg"/&gt; The slavers on &lt;a href="/wikis/the-isle-of-mists" class="wiki-page-link"&gt; The Isle of Mists&lt;/a&gt; use magic compasses to navigate through the inpenetrable mists around the island. The compasses are usually ornate, and are enchanted using an artifact obtained from &lt;a href="/wikis/the-grey-keep" class="wiki-page-link"&gt; The Grey Keep&lt;/a&gt;. Navigation to and from the island are considered different by the magic of the island, and a compass used to find the island cannot be used to leave unless its enchantment is modified by the Lort of the Mists.&lt;/p&gt;
+&lt;p&gt;The Lord of the Mists has complete control over all magic compasses, and can revoke or modify the enchantment whenever they wish. The Lord does not need to physically have the compass in their possession in order to do this, but the compasses seem to react to the thoughts and wishes of the Lord.&lt;/p&gt;</content>
+      <content gm_only="true" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+    </page>
+    <page gm_only="false">
+      <id>http://zemia.obsidianportal.com/wiki_pages/2289003</id>
+      <link>http://zemia.obsidianportal.com/wiki_pages/silverfield-mine</link>
+      <title>Silverfield Mine</title>
+      <published>2017-07-17T16:04:30Z</published>
+      <content gm_only="false" format="textile">The Silverfield Mine is a silver mine a short ride outside of [[Silverfield]] on [[The Isle of Mists | The Isle of Mists]]. 
+
+It is an old mine, with the elves who used to reside on the island using it for their silver production. The current owners, human slave traffickers, have expanded its tunnels to reach gemstones, iron, and other useful minerals. The workforce is mostly composed of dwarves, prized by the slavers for their mining expertise and hardy constitutions underground. 
+
+Used caverns have been converted into refineries, smithies, slave quarters, and storage. A mining cart system with rail cars and elevators is used to transport goods from the bottom of the mines to the surface. Typically, wagon trains filled with output from the mine leave twice per day, once in the morning and once in the evening.
+
+Human guards aren't present in the mines beyond the entrance, allowing the dwarves to govern themselves. A foreman is given authority to run the mine as he pleases, along with a cadre of armed dwarven guards, topside privileges, and rather opulent living quarters. </content>
+      <content gm_only="true" format="html">&lt;p&gt;The Silverfield Mine is a silver mine a short ride outside of &lt;a href="/wikis/silverfield" class="wiki-page-link"&gt;Silverfield&lt;/a&gt; on &lt;a href="/wikis/the-isle-of-mists" class="wiki-page-link"&gt; The Isle of Mists&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It is an old mine, with the elves who used to reside on the island using it for their silver production. The current owners, human slave traffickers, have expanded its tunnels to reach gemstones, iron, and other useful minerals. The workforce is mostly composed of dwarves, prized by the slavers for their mining expertise and hardy constitutions underground.&lt;/p&gt;
+&lt;p&gt;Used caverns have been converted into refineries, smithies, slave quarters, and storage. A mining cart system with rail cars and elevators is used to transport goods from the bottom of the mines to the surface. Typically, wagon trains filled with output from the mine leave twice per day, once in the morning and once in the evening.&lt;/p&gt;
+&lt;p&gt;Human guards aren&amp;#8217;t present in the mines beyond the entrance, allowing the dwarves to govern themselves. A foreman is given authority to run the mine as he pleases, along with a cadre of armed dwarven guards, topside privileges, and rather opulent living quarters.&lt;/p&gt;</content>
+      <content gm_only="true" format="textile">Tunnel to slave quarters is collapsible, forcing party to go above ground to the air hole, or to go through the underdark section.
+
+"You're mad! Isten himself couldn't make me go down there again!"
+Dwarves mention hearing Dwarven mining songs faintly echoing through the caverns
+
+h5. Zuhrukt Treasure trove:
+
+Hidden door, marked by scorpion, DC 16 Perception check, leads to another door with a puzzle?
+Door Puzzle:
+4 different scorpions, stylistically different, all can go into all slots
+solution is to remove all of them because none match the Zuhrukt sigil outline
+Have to push the door open to see if the combo worked
+
+700 cp, 7000 sp, 1800 gp, 60 pp, Copper Armlet inlaid with Copper (250 gp), Glass Eye (250 gp), Silver Cloth Cloak (250 gp), Electrum Cloth Vest (250 gp), Leopard Fur Vest (250 gp), Armor of Resistance (scale mail, cold) (rare, dmg 152), Cloak of the Bat (rare, dmg 159), Mace of Disruption (rare, dmg 179), Ring of Evasion (rare, dmg 191)
+Armlet, vests, armor, and cloaks all contain the Zuhrukt family sigil, the scorpion.
+   * could be used to prove one's identity as a Zuhrukt agent
+
+h4. Encounters:
+
+Dwarves mining for the mind flayer Altharid! Warned by upstairs dwarves of reports of sightings of missing dwarves in the tunnels, mining songs, etc. Dwarves are super friendly, invite the party to join them for dinner back at the hold. Mind flayer has them thinking they are back in the glory days, mining and creating for him. He has very fancy dwarven hold created (continuously expanding), with statues and such carved by the dwarves he takes. Has a great hall for everyone who lives there, forges, armories, guest rooms. 
+
+Altharid Foamfist:
+Consumed an adolescent dwarf brain when he spawned
+Wants to take the party has his own for his entertainment/protection. 
+He is a little crazy, wants to be a dwarf lord, has largely convinced himself he is a dwarf, is outfitted in dwarven armor built just for him. 
+His emblem is a fist holding a foaming mug of ale.
+Party could impress him to win their freedom:
+* Fight in his nightly fistfights and defeat his champions (Could be good for Aerandir)
+* Drink copious amounts of ale
+* Give him some Dwarven artifacts
+* Convince him to let them go? How? Why would he let them go? What does he get out of it?
+
+h5. Friendly:
+
+* Flumph - warns of a rogue mindflayer, very dangerous, has many mind-slaves - some dwarves, some humans, some half-orcs, some monstrous
+
+h5. Deadly:
+
+* Roper + 6 Piercers
+* 2 Drow Elite Warriors + 2 Giant Spiders
+* Mind Flayer + 2 Quaggoths
+* 2 Chimera
+* 4 Grell
+* 4 Phase Spiders
+* 3 Flame Skulls
+* 3 Black Puddings
+* 4 Hook Horrors
+* 2 Cyclops
+* 3 Chuul
+* Quaggoth Thonot + 5 Quaggoth
+* 3 Bone Nagas
+
+h5. Hard:
+* 2 Xorn
+* 2 Otyugh
+
+
+
+[[File:759106  | class=media-item-align-none | Extensive_Mine.jpg]]</content>
+      <content gm_only="true" format="html">&lt;p&gt;Tunnel to slave quarters is collapsible, forcing party to go above ground to the air hole, or to go through the underdark section.&lt;/p&gt;
+&lt;p&gt;&amp;#8220;You&amp;#8217;re mad! Isten himself couldn&amp;#8217;t make me go down there again!&amp;#8221;&lt;br /&gt;
+Dwarves mention hearing Dwarven mining songs faintly echoing through the caverns&lt;/p&gt;
+&lt;h5&gt;Zuhrukt Treasure trove:&lt;/h5&gt;
+&lt;p&gt;Hidden door, marked by scorpion, DC 16 Perception check, leads to another door with a puzzle?&lt;br /&gt;
+Door Puzzle:&lt;br /&gt;
+4 different scorpions, stylistically different, all can go into all slots&lt;br /&gt;
+solution is to remove all of them because none match the Zuhrukt sigil outline&lt;br /&gt;
+Have to push the door open to see if the combo worked&lt;/p&gt;
+&lt;p&gt;700 cp, 7000 sp, 1800 gp, 60 pp, Copper Armlet inlaid with Copper (250 gp), Glass Eye (250 gp), Silver Cloth Cloak (250 gp), Electrum Cloth Vest (250 gp), Leopard Fur Vest (250 gp), Armor of Resistance (scale mail, cold) (rare, dmg 152), Cloak of the Bat (rare, dmg 159), Mace of Disruption (rare, dmg 179), Ring of Evasion (rare, dmg 191)&lt;br /&gt;
+Armlet, vests, armor, and cloaks all contain the Zuhrukt family sigil, the scorpion.&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;could be used to prove one&amp;#8217;s identity as a Zuhrukt agent&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Encounters:&lt;/h4&gt;
+&lt;p&gt;Dwarves mining for the mind flayer Altharid! Warned by upstairs dwarves of reports of sightings of missing dwarves in the tunnels, mining songs, etc. Dwarves are super friendly, invite the party to join them for dinner back at the hold. Mind flayer has them thinking they are back in the glory days, mining and creating for him. He has very fancy dwarven hold created (continuously expanding), with statues and such carved by the dwarves he takes. Has a great hall for everyone who lives there, forges, armories, guest rooms.&lt;/p&gt;
+&lt;p&gt;Altharid Foamfist:&lt;br /&gt;
+Consumed an adolescent dwarf brain when he spawned&lt;br /&gt;
+Wants to take the party has his own for his entertainment/protection. &lt;br /&gt;
+He is a little crazy, wants to be a dwarf lord, has largely convinced himself he is a dwarf, is outfitted in dwarven armor built just for him. &lt;br /&gt;
+His emblem is a fist holding a foaming mug of ale.&lt;br /&gt;
+Party could impress him to win their freedom:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Fight in his nightly fistfights and defeat his champions (Could be good for Aerandir)&lt;/li&gt;
+	&lt;li&gt;Drink copious amounts of ale&lt;/li&gt;
+	&lt;li&gt;Give him some Dwarven artifacts&lt;/li&gt;
+	&lt;li&gt;Convince him to let them go? How? Why would he let them go? What does he get out of it?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;Friendly:&lt;/h5&gt;
+&lt;ul&gt;
+	&lt;li&gt;Flumph &amp;#8211; warns of a rogue mindflayer, very dangerous, has many mind-slaves &amp;#8211; some dwarves, some humans, some half-orcs, some monstrous&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;Deadly:&lt;/h5&gt;
+&lt;ul&gt;
+	&lt;li&gt;Roper + 6 Piercers&lt;/li&gt;
+	&lt;li&gt;2 Drow Elite Warriors + 2 Giant Spiders&lt;/li&gt;
+	&lt;li&gt;Mind Flayer + 2 Quaggoths&lt;/li&gt;
+	&lt;li&gt;2 Chimera&lt;/li&gt;
+	&lt;li&gt;4 Grell&lt;/li&gt;
+	&lt;li&gt;4 Phase Spiders&lt;/li&gt;
+	&lt;li&gt;3 Flame Skulls&lt;/li&gt;
+	&lt;li&gt;3 Black Puddings&lt;/li&gt;
+	&lt;li&gt;4 Hook Horrors&lt;/li&gt;
+	&lt;li&gt;2 Cyclops&lt;/li&gt;
+	&lt;li&gt;3 Chuul&lt;/li&gt;
+	&lt;li&gt;Quaggoth Thonot + 5 Quaggoth&lt;/li&gt;
+	&lt;li&gt;3 Bone Nagas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;Hard:&lt;/h5&gt;
+&lt;ul&gt;
+	&lt;li&gt;2 Xorn&lt;/li&gt;
+	&lt;li&gt;2 Otyugh&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src="https://db4sgowjqfwig.cloudfront.net/campaigns/98873/assets/759106/Extensive_Mine.jpg?1500323379" class="asset-reference image-asset-reference media-item-align-none" data-asset-id="759106"   alt="Extensive_Mine.jpg" title="Extensive_Mine.jpg"/&gt;&lt;/p&gt;</content>
+    </page>
+    <page gm_only="false">
+      <id>http://zemia.obsidianportal.com/wiki_pages/2508750</id>
+      <link>http://zemia.obsidianportal.com/wiki_pages/eversail</link>
+      <title>Eversail</title>
+      <published>2018-04-09T15:08:02Z</published>
+      <content gm_only="false" format="textile">Eversail is a large port city on the continent of [[Drakon]]. Most trade and shipping routes to and from [[Zhestok]] come through Eversail before continuing to their destination. 
+
+The first human explorers settled Eversail because of its natural harbour, which provides shelter from storms and high winds. The Harbour Island provides an adequate storm break, and is an ideal location for its lighthouse.
+
+h4. Government
+
+The Guild Council is the ruling authority in Eversail. Each of the five guilds has a permanent seat on the council, along with the high priest from the Church of Isten and from the Temple of Anya. The council appoints one of their members to be Head of Council, who in turn appoints an advisor to also sit on the council. This seat is highly contended for in the city, with much gold being spent on bribes and favours for council members seen as favourites for the Head position. New Heads tend to appoint members of the major Human houses, since the houses are very free with their coin. 
+
+h4. Climate
+
+Temperate, wet, low temperature variance between seasons. Alright for farming, excellent fishing stocks.
+
+h4. Economy
+
+Trading centre of Zemia, all trade routes from Dhemet and Khoret come through the city. Overland routes to the north and over the mountains to South Harbour also exist. 
+
+Almost any item from anywhere can be found in Eversail, but this is not the place to come for good prices. Cost of living is high, outside of the slums and shanty town, and the markets are opulent. Expect to find excellent bargainers who have been plying their trade for years.
+
+h4. Demographics
+
+Eversail has long been the most populous city on the continent, with almost 50,000 residents (including the shanty town). 
+
+Eversail is one of the most diverse cities on Drakon, with only 60% of the walled city's population being pure Human. If the shanty town outside the walls is included, that number shrinks to 30%. 
+
+The first settlers were welcomed with open arms by the indigenous population, and much of the Half Elven population lives in Eversail. Where in other cities Half Elves are shunned by both Humans and Elves, here they are often found in positions of influence.
+
+|Race|Percentage|Total|
+|Human|30%|15,000|
+|Elf|20%|10,000|
+|Half-Elf|20%|10,000|
+|Dwarf|15%|7,500|
+|Halfling|10%|5,000|
+|Gnome|5%|2,500|</content>
+      <content gm_only="true" format="html">&lt;p&gt;Eversail is a large port city on the continent of &lt;a href="/wikis/drakon" class="wiki-page-link"&gt;Drakon&lt;/a&gt;. Most trade and shipping routes to and from &lt;a href="/wikis/zhestok" class="wiki-page-link"&gt;Zhestok&lt;/a&gt; come through Eversail before continuing to their destination.&lt;/p&gt;
+&lt;p&gt;The first human explorers settled Eversail because of its natural harbour, which provides shelter from storms and high winds. The Harbour Island provides an adequate storm break, and is an ideal location for its lighthouse.&lt;/p&gt;
+&lt;h4&gt;Government&lt;/h4&gt;
+&lt;p&gt;The Guild Council is the ruling authority in Eversail. Each of the five guilds has a permanent seat on the council, along with the high priest from the Church of Isten and from the Temple of Anya. The council appoints one of their members to be Head of Council, who in turn appoints an advisor to also sit on the council. This seat is highly contended for in the city, with much gold being spent on bribes and favours for council members seen as favourites for the Head position. New Heads tend to appoint members of the major Human houses, since the houses are very free with their coin.&lt;/p&gt;
+&lt;h4&gt;Climate&lt;/h4&gt;
+&lt;p&gt;Temperate, wet, low temperature variance between seasons. Alright for farming, excellent fishing stocks.&lt;/p&gt;
+&lt;h4&gt;Economy&lt;/h4&gt;
+&lt;p&gt;Trading centre of Zemia, all trade routes from Dhemet and Khoret come through the city. Overland routes to the north and over the mountains to South Harbour also exist.&lt;/p&gt;
+&lt;p&gt;Almost any item from anywhere can be found in Eversail, but this is not the place to come for good prices. Cost of living is high, outside of the slums and shanty town, and the markets are opulent. Expect to find excellent bargainers who have been plying their trade for years.&lt;/p&gt;
+&lt;h4&gt;Demographics&lt;/h4&gt;
+&lt;p&gt;Eversail has long been the most populous city on the continent, with almost 50,000 residents (including the shanty town).&lt;/p&gt;
+&lt;p&gt;Eversail is one of the most diverse cities on Drakon, with only 60% of the walled city&amp;#8217;s population being pure Human. If the shanty town outside the walls is included, that number shrinks to 30%.&lt;/p&gt;
+&lt;p&gt;The first settlers were welcomed with open arms by the indigenous population, and much of the Half Elven population lives in Eversail. Where in other cities Half Elves are shunned by both Humans and Elves, here they are often found in positions of influence.&lt;/p&gt;
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Race&lt;/td&gt;
+		&lt;td&gt;Percentage&lt;/td&gt;
+		&lt;td&gt;Total&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Human&lt;/td&gt;
+		&lt;td&gt;30%&lt;/td&gt;
+		&lt;td&gt;15,000&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Elf&lt;/td&gt;
+		&lt;td&gt;20%&lt;/td&gt;
+		&lt;td&gt;10,000&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Half-Elf&lt;/td&gt;
+		&lt;td&gt;20%&lt;/td&gt;
+		&lt;td&gt;10,000&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Dwarf&lt;/td&gt;
+		&lt;td&gt;15%&lt;/td&gt;
+		&lt;td&gt;7,500&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Halfling&lt;/td&gt;
+		&lt;td&gt;10%&lt;/td&gt;
+		&lt;td&gt;5,000&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Gnome&lt;/td&gt;
+		&lt;td&gt;5%&lt;/td&gt;
+		&lt;td&gt;2,500&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</content>
+      <content gm_only="true" format="textile">Eversail is a large port city on the continent of [[Drakon]]. Most trade and shipping routes to and from [[Zhestok]] come through Eversail before continuing to their destination. 
+
+The first human explorers settled Eversail because of its natural harbour, which provides shelter from storms and high winds. The Harbour Island provides an adequate storm break, and is an ideal location for its lighthouse.
+
+h4. Government
+
+The Guild Council is the ruling authority in Eversail. Each of the five guilds has a permanent seat on the council, along with the high priest from the Church of Isten and from the Temple of Anya. The council appoints one of their members to be Head of Council, who in turn appoints an advisor to also sit on the council. This seat is highly contended for in the city, with much gold being spent on bribes and favours for council members seen as favourites for the Head position. New Heads tend to appoint members of the major Human houses, since the houses are very free with their coin. 
+
+|Position|Name|Faction|Race|
+|Head of Council|Brandt Cima|Shipmaker's Guild|Human Male|
+|Council Member|Cathe Lathelas|Dockworker's Guild|Half Elf Male|
+|Council Member|Kallie Cherrycheeks|Merchant's Guild|Halfling Female|
+|Council Member|Dariff Silveraxe|Craftsman's Guild|Dwarf Female|
+|Council Member|Thami Barleytree|Innkeeper's Guild|Human Female|
+|Council Member|Harvin Amberhelm|Mage's Guild|Half Elf Male|
+|Council Member|Wymar Vaknev|Church of Isten|Human Male|
+|Council Member|Arannis Othronus|Temple of Anya|Elven Male|
+|Head Advisor|Zuri Zuhrukt|House Zuhrukt|Human Male|
+
+h3. Factions
+
+h5. Shipmaker's Guild
+
+A dominant force in the city, as almost everything comes in by boat. Getting on the Shipmaker's Guild's bad side will usually result in repairs being delayed indefinitely, or worse, done poorly/incorrectly/maliciously. They have been Head of the Guild Council for years, and willingly throw their influence around to keep it that way.
+
+Head: Brandt Cima, Human Male
+
+h5. Dockworker's Guild
+
+This guild was created by a group of dock workers frustrated with their pay. They gathered enough coin to buy a pier from a merchant in financial distress, and are working on expanding the number of piers and workers they own. They got onto the council by threatening to close their piers and walk their workers off the job. The Merchant, Craftsman, and Shipmaker's Guilds opposed this until shipments started backing up in the harbour, taking days to get off the boats. As food spoiled and deadlines were broken, the guilds relented and allowed the Dockworker's Guildmaster onto the council.
+
+Head: Cathe Lathelas, Half Elf Male
+
+h5. Merchant's Guild
+
+In order to import and export goods to and from the city, fees must be paid to the Merchant's Guild. High ranking members have access to lower fees and are less likely to be searched. Members also have their proposals for expansion approved more rapidly, and can get favourable conflict resolution against their competitors. Membership costs a large entry fee, and ranking is improved by both politics as well as higher revenues.
+
+Head: Kallie Cherrycheeks, Halfling Female (has perpetually rosy cheeks, much older than she looks)
+No-nonsense, dislikes mockery of her name, rumoured to have stabbed (and killed) someone with her jewelled stiletto who pinched her cheeks.
+Rumoured to be high ranking in the Thief's Guild (is actually a highly paid assassin in her spare time).
+Her dagger is Artemis Entreri's Jewelled Dagger, capable of draining the life force of the victim to heal Kallie.
+
+h5. Craftsman's Guild
+
+The Craftsman's Guild represents the creators in the city. Smiths, jewelers, weavers, tailors, seamstresses, etc. The guild helps its members find merchants to buy raw materials from, merchants to sell their finished goods to, experienced mentors in their craft, and helps manage their business. 
+
+Head: Dariff Silveraxe, Dwarf Female
+
+h5. Mage's Guild
+
+The Mage's Guild keeps track of all magic users in the city, other than clerics/paladins of Isten and Anya. All magic users entering the city are given a magical token upon arrival, and must bring it to either the Mage's Guild, the Church of Isten, or the Temple of Anya. There they will be registered, and the token's magic will be used to track them while they are in the city. Failure to register, or the discarding of the token will result in guards being called. Magic being used without a token on their person will also result in guards being called. The Mage's Guild charges 100 gp for first annual registration, 25 gp afterwards. 
+
+Services provided (discounted for members):
+* Enchantment
+* Alchemy
+* Magic Item Identification
+* Magical Healing
+* Teleportation (members only)
+
+Head: Harvin Amberhelm, Half Elf Male
+
+h5. Thief's Guild
+
+The Thief's Guild is the only guild without representation on the Council. The guild likes to operate in the shadows, with many members of other factions secretly being members. The leader of the Thief's Guild is unknown by anyone outside the guild itself, and even then restricted to high ranking members only. It is rumoured that Kallie Cherrycheeks (Head of the Merchant's Guild) is also a high ranking member of the Thief's Guild. Prospective recruits are given a unique dummy secret passphrase, and a task to complete. Actual membership (along with the actual passphrase, which is done in finger sign language while discussing the weather) isn't given until repeated tasks are accomplished completely silently and without leaking the dummy passphrase.
+
+
+h5. Church of Isten
+
+Registers paladins/clerics of Isten, and provides healing for Humans. Non-Humans are not allowed to enter the Church, and will be turned around at the doors by the guards. All efforts of the Church are to further the goals of Isten: Human dominance over all creation. The Church has significantly lower influence in Eversail than in other cities, as there is a significant population of Non-Humans in positions of power.
+
+High Priest: Wymar Vaknev, Human Male
+
+h5. Temple of Anya
+
+Provides worship services and healing for anyone who comes, but only non-magical healing. No paladin or cleric of Anya has been registered at the Temple for decades, with many who still serve not remembering the process. Those still here hold fast to hope that one day someone will walk through the doors to demonstrate Anya's power, while others believe that any such person will be a charlatan. 
+
+High Priest: Arannis Othronus, Elven Male
+
+h3. Gangs in the Slums
+
+The slums have very little in the way of guard presence, and are largely divided up between the various gangs. Gang rivalries exist on borders, as well as between the slums and the shanty towns.
+
+h5. Goblinguts
+
+h5. Vipers
+
+h5. Gate Lords
+
+h3. Gangs in the Shanty Towns
+
+h5. Ogre Sniffers
+
+h5. Rockheads
+
+h5. Dragon Bloods
+
+h5. Storm Scales
+
+h5. Sparrows
+
+h4. Climate
+
+Temperate, wet, low temperature variance between seasons. Alright for farming, excellent fishing stocks.
+
+h4. Economy
+
+Trading centre of Zemia, all trade routes from Dhemet and Khoret come through the city. Overland routes to the north and over the mountains to South Harbour also exist. 
+
+Almost any item from anywhere can be found in Eversail, but this is not the place to come for good prices. Cost of living is high, outside of the slums and shanty town, and the markets are opulent. Expect to find excellent bargainers who have been plying their trade for years.
+
+h4. Demographics
+
+Eversail has long been the most populous city on the continent, with almost 50,000 residents (including the shanty town). 
+
+Eversail is one of the most diverse cities on Drakon, with only 60% of the walled city's population being pure Human. If the shanty town outside the walls is included, that number shrinks to 30%. 
+
+The first settlers were welcomed with open arms by the indigenous population, and much of the Half Elven population lives in Eversail. Where in other cities Half Elves are shunned by both Humans and Elves, here they are often found in positions of influence.
+
+|Race|Percentage|Total|
+|Human|30%|15,000|
+|Elf|20%|10,000|
+|Half-Elf|20%|10,000|
+|Dwarf|15%|7,500|
+|Halfling|10%|5,000|
+|Gnome|5%|2,500|
+</content>
+      <content gm_only="true" format="html">&lt;p&gt;Eversail is a large port city on the continent of &lt;a href="/wikis/drakon" class="wiki-page-link"&gt;Drakon&lt;/a&gt;. Most trade and shipping routes to and from &lt;a href="/wikis/zhestok" class="wiki-page-link"&gt;Zhestok&lt;/a&gt; come through Eversail before continuing to their destination.&lt;/p&gt;
+&lt;p&gt;The first human explorers settled Eversail because of its natural harbour, which provides shelter from storms and high winds. The Harbour Island provides an adequate storm break, and is an ideal location for its lighthouse.&lt;/p&gt;
+&lt;h4&gt;Government&lt;/h4&gt;
+&lt;p&gt;The Guild Council is the ruling authority in Eversail. Each of the five guilds has a permanent seat on the council, along with the high priest from the Church of Isten and from the Temple of Anya. The council appoints one of their members to be Head of Council, who in turn appoints an advisor to also sit on the council. This seat is highly contended for in the city, with much gold being spent on bribes and favours for council members seen as favourites for the Head position. New Heads tend to appoint members of the major Human houses, since the houses are very free with their coin.&lt;/p&gt;
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Position&lt;/td&gt;
+		&lt;td&gt;Name&lt;/td&gt;
+		&lt;td&gt;Faction&lt;/td&gt;
+		&lt;td&gt;Race&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Head of Council&lt;/td&gt;
+		&lt;td&gt;Brandt Cima&lt;/td&gt;
+		&lt;td&gt;Shipmaker&amp;#8217;s Guild&lt;/td&gt;
+		&lt;td&gt;Human Male&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Council Member&lt;/td&gt;
+		&lt;td&gt;Cathe Lathelas&lt;/td&gt;
+		&lt;td&gt;Dockworker&amp;#8217;s Guild&lt;/td&gt;
+		&lt;td&gt;Half Elf Male&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Council Member&lt;/td&gt;
+		&lt;td&gt;Kallie Cherrycheeks&lt;/td&gt;
+		&lt;td&gt;Merchant&amp;#8217;s Guild&lt;/td&gt;
+		&lt;td&gt;Halfling Female&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Council Member&lt;/td&gt;
+		&lt;td&gt;Dariff Silveraxe&lt;/td&gt;
+		&lt;td&gt;Craftsman&amp;#8217;s Guild&lt;/td&gt;
+		&lt;td&gt;Dwarf Female&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Council Member&lt;/td&gt;
+		&lt;td&gt;Thami Barleytree&lt;/td&gt;
+		&lt;td&gt;Innkeeper&amp;#8217;s Guild&lt;/td&gt;
+		&lt;td&gt;Human Female&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Council Member&lt;/td&gt;
+		&lt;td&gt;Harvin Amberhelm&lt;/td&gt;
+		&lt;td&gt;Mage&amp;#8217;s Guild&lt;/td&gt;
+		&lt;td&gt;Half Elf Male&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Council Member&lt;/td&gt;
+		&lt;td&gt;Wymar Vaknev&lt;/td&gt;
+		&lt;td&gt;Church of Isten&lt;/td&gt;
+		&lt;td&gt;Human Male&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Council Member&lt;/td&gt;
+		&lt;td&gt;Arannis Othronus&lt;/td&gt;
+		&lt;td&gt;Temple of Anya&lt;/td&gt;
+		&lt;td&gt;Elven Male&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Head Advisor&lt;/td&gt;
+		&lt;td&gt;Zuri Zuhrukt&lt;/td&gt;
+		&lt;td&gt;House Zuhrukt&lt;/td&gt;
+		&lt;td&gt;Human Male&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;h3&gt;Factions&lt;/h3&gt;
+&lt;h5&gt;Shipmaker&amp;#8217;s Guild&lt;/h5&gt;
+&lt;p&gt;A dominant force in the city, as almost everything comes in by boat. Getting on the Shipmaker&amp;#8217;s Guild&amp;#8217;s bad side will usually result in repairs being delayed indefinitely, or worse, done poorly/incorrectly/maliciously. They have been Head of the Guild Council for years, and willingly throw their influence around to keep it that way.&lt;/p&gt;
+&lt;p&gt;Head: Brandt Cima, Human Male&lt;/p&gt;
+&lt;h5&gt;Dockworker&amp;#8217;s Guild&lt;/h5&gt;
+&lt;p&gt;This guild was created by a group of dock workers frustrated with their pay. They gathered enough coin to buy a pier from a merchant in financial distress, and are working on expanding the number of piers and workers they own. They got onto the council by threatening to close their piers and walk their workers off the job. The Merchant, Craftsman, and Shipmaker&amp;#8217;s Guilds opposed this until shipments started backing up in the harbour, taking days to get off the boats. As food spoiled and deadlines were broken, the guilds relented and allowed the Dockworker&amp;#8217;s Guildmaster onto the council.&lt;/p&gt;
+&lt;p&gt;Head: Cathe Lathelas, Half Elf Male&lt;/p&gt;
+&lt;h5&gt;Merchant&amp;#8217;s Guild&lt;/h5&gt;
+&lt;p&gt;In order to import and export goods to and from the city, fees must be paid to the Merchant&amp;#8217;s Guild. High ranking members have access to lower fees and are less likely to be searched. Members also have their proposals for expansion approved more rapidly, and can get favourable conflict resolution against their competitors. Membership costs a large entry fee, and ranking is improved by both politics as well as higher revenues.&lt;/p&gt;
+&lt;p&gt;Head: Kallie Cherrycheeks, Halfling Female (has perpetually rosy cheeks, much older than she looks)&lt;br /&gt;
+No-nonsense, dislikes mockery of her name, rumoured to have stabbed (and killed) someone with her jewelled stiletto who pinched her cheeks.&lt;br /&gt;
+Rumoured to be high ranking in the Thief&amp;#8217;s Guild (is actually a highly paid assassin in her spare time).&lt;br /&gt;
+Her dagger is Artemis Entreri&amp;#8217;s Jewelled Dagger, capable of draining the life force of the victim to heal Kallie.&lt;/p&gt;
+&lt;h5&gt;Craftsman&amp;#8217;s Guild&lt;/h5&gt;
+&lt;p&gt;The Craftsman&amp;#8217;s Guild represents the creators in the city. Smiths, jewelers, weavers, tailors, seamstresses, etc. The guild helps its members find merchants to buy raw materials from, merchants to sell their finished goods to, experienced mentors in their craft, and helps manage their business.&lt;/p&gt;
+&lt;p&gt;Head: Dariff Silveraxe, Dwarf Female&lt;/p&gt;
+&lt;h5&gt;Mage&amp;#8217;s Guild&lt;/h5&gt;
+&lt;p&gt;The Mage&amp;#8217;s Guild keeps track of all magic users in the city, other than clerics/paladins of Isten and Anya. All magic users entering the city are given a magical token upon arrival, and must bring it to either the Mage&amp;#8217;s Guild, the Church of Isten, or the Temple of Anya. There they will be registered, and the token&amp;#8217;s magic will be used to track them while they are in the city. Failure to register, or the discarding of the token will result in guards being called. Magic being used without a token on their person will also result in guards being called. The Mage&amp;#8217;s Guild charges 100 gp for first annual registration, 25 gp afterwards.&lt;/p&gt;
+&lt;p&gt;Services provided (discounted for members):&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Enchantment&lt;/li&gt;
+	&lt;li&gt;Alchemy&lt;/li&gt;
+	&lt;li&gt;Magic Item Identification&lt;/li&gt;
+	&lt;li&gt;Magical Healing&lt;/li&gt;
+	&lt;li&gt;Teleportation (members only)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Head: Harvin Amberhelm, Half Elf Male&lt;/p&gt;
+&lt;h5&gt;Thief&amp;#8217;s Guild&lt;/h5&gt;
+&lt;p&gt;The Thief&amp;#8217;s Guild is the only guild without representation on the Council. The guild likes to operate in the shadows, with many members of other factions secretly being members. The leader of the Thief&amp;#8217;s Guild is unknown by anyone outside the guild itself, and even then restricted to high ranking members only. It is rumoured that Kallie Cherrycheeks (Head of the Merchant&amp;#8217;s Guild) is also a high ranking member of the Thief&amp;#8217;s Guild. Prospective recruits are given a unique dummy secret passphrase, and a task to complete. Actual membership (along with the actual passphrase, which is done in finger sign language while discussing the weather) isn&amp;#8217;t given until repeated tasks are accomplished completely silently and without leaking the dummy passphrase.&lt;/p&gt;
+&lt;h5&gt;Church of Isten&lt;/h5&gt;
+&lt;p&gt;Registers paladins/clerics of Isten, and provides healing for Humans. Non-Humans are not allowed to enter the Church, and will be turned around at the doors by the guards. All efforts of the Church are to further the goals of Isten: Human dominance over all creation. The Church has significantly lower influence in Eversail than in other cities, as there is a significant population of Non-Humans in positions of power.&lt;/p&gt;
+&lt;p&gt;High Priest: Wymar Vaknev, Human Male&lt;/p&gt;
+&lt;h5&gt;Temple of Anya&lt;/h5&gt;
+&lt;p&gt;Provides worship services and healing for anyone who comes, but only non-magical healing. No paladin or cleric of Anya has been registered at the Temple for decades, with many who still serve not remembering the process. Those still here hold fast to hope that one day someone will walk through the doors to demonstrate Anya&amp;#8217;s power, while others believe that any such person will be a charlatan.&lt;/p&gt;
+&lt;p&gt;High Priest: Arannis Othronus, Elven Male&lt;/p&gt;
+&lt;h3&gt;Gangs in the Slums&lt;/h3&gt;
+&lt;p&gt;The slums have very little in the way of guard presence, and are largely divided up between the various gangs. Gang rivalries exist on borders, as well as between the slums and the shanty towns.&lt;/p&gt;
+&lt;h5&gt;Goblinguts&lt;/h5&gt;
+&lt;h5&gt;Vipers&lt;/h5&gt;
+&lt;h5&gt;Gate Lords&lt;/h5&gt;
+&lt;h3&gt;Gangs in the Shanty Towns&lt;/h3&gt;
+&lt;h5&gt;Ogre Sniffers&lt;/h5&gt;
+&lt;h5&gt;Rockheads&lt;/h5&gt;
+&lt;h5&gt;Dragon Bloods&lt;/h5&gt;
+&lt;h5&gt;Storm Scales&lt;/h5&gt;
+&lt;h5&gt;Sparrows&lt;/h5&gt;
+&lt;h4&gt;Climate&lt;/h4&gt;
+&lt;p&gt;Temperate, wet, low temperature variance between seasons. Alright for farming, excellent fishing stocks.&lt;/p&gt;
+&lt;h4&gt;Economy&lt;/h4&gt;
+&lt;p&gt;Trading centre of Zemia, all trade routes from Dhemet and Khoret come through the city. Overland routes to the north and over the mountains to South Harbour also exist.&lt;/p&gt;
+&lt;p&gt;Almost any item from anywhere can be found in Eversail, but this is not the place to come for good prices. Cost of living is high, outside of the slums and shanty town, and the markets are opulent. Expect to find excellent bargainers who have been plying their trade for years.&lt;/p&gt;
+&lt;h4&gt;Demographics&lt;/h4&gt;
+&lt;p&gt;Eversail has long been the most populous city on the continent, with almost 50,000 residents (including the shanty town).&lt;/p&gt;
+&lt;p&gt;Eversail is one of the most diverse cities on Drakon, with only 60% of the walled city&amp;#8217;s population being pure Human. If the shanty town outside the walls is included, that number shrinks to 30%.&lt;/p&gt;
+&lt;p&gt;The first settlers were welcomed with open arms by the indigenous population, and much of the Half Elven population lives in Eversail. Where in other cities Half Elves are shunned by both Humans and Elves, here they are often found in positions of influence.&lt;/p&gt;
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Race&lt;/td&gt;
+		&lt;td&gt;Percentage&lt;/td&gt;
+		&lt;td&gt;Total&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Human&lt;/td&gt;
+		&lt;td&gt;30%&lt;/td&gt;
+		&lt;td&gt;15,000&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Elf&lt;/td&gt;
+		&lt;td&gt;20%&lt;/td&gt;
+		&lt;td&gt;10,000&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Half-Elf&lt;/td&gt;
+		&lt;td&gt;20%&lt;/td&gt;
+		&lt;td&gt;10,000&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Dwarf&lt;/td&gt;
+		&lt;td&gt;15%&lt;/td&gt;
+		&lt;td&gt;7,500&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Halfling&lt;/td&gt;
+		&lt;td&gt;10%&lt;/td&gt;
+		&lt;td&gt;5,000&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Gnome&lt;/td&gt;
+		&lt;td&gt;5%&lt;/td&gt;
+		&lt;td&gt;2,500&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</content>
+    </page>
+    <page gm_only="false">
+      <id>http://zemia.obsidianportal.com/wiki_pages/2649676</id>
+      <link>http://zemia.obsidianportal.com/wiki_pages/the-forgotten-isle</link>
+      <title>The Forgotten Isle</title>
+      <published>2018-10-14T16:59:56Z</published>
+      <content gm_only="false" format="textile">The Forgotten Isle, known to the elves as Isla Zabrav, is the place where it is legended that the gods took their first steps upon [[Zemia]]. </content>
+      <content gm_only="true" format="html">&lt;p&gt;The Forgotten Isle, known to the elves as Isla Zabrav, is the place where it is legended that the gods took their first steps upon &lt;a href="/wikis/Zemia/new" class="create-wiki-page-link"&gt;Zemia&lt;/a&gt;.&lt;/p&gt;</content>
+      <content gm_only="true" format="textile">The Forgotten Isle, known to the elves as Isla Zabrav, is where the gods took their first steps upon [[Zemia]]. 
+
+h4. History
+
+When [[:isten | Isten]] and [[:anya | Anya]] finally finished constructing Zemia's continents, they took physical form and came down to examine their creation. They stood on the high mountains overlooking the sea and decided that all was good. They sat a while to determine their next course of action, and agreed to create together a series of creatures to enjoy their world. Thus were created the giant races. 
+
+Isten created the hill, frost, and fire giants, while Anya created the stone, cloud, and storm giants. Isten looked upon Anya's creations and felt jealous toward them. While he was proud of the brute strength of his frost giants and the fire giants were masterful smiths and warriors, the beauty of the structures created by the stone and cloud giants awed him. He wished he could create such beauty, and struck against them with his giants to destroy the wondrous cloud city hanging before him. 
+
+Anya recoiled in horror at Isten's destruction, and created the metallic dragons (her favourite form) in retaliation. The dragons were sent against the giants of Isten to cover for her giants' escape. She took her stone and cloud giants and hid them in the mountains of [[Drakon]], giving them instructions to stay hidden from the world. The storm giants were all but destroyed in the fighting, with just three surviving. Anya gave the remaining three the ability to see omens and portents of the future, in order to protect against any further betrayal by Isten. They took up residence on the three peaks of Isla Zabrav.
+
+Isten took his own giants to [[Zhestok]], and spread them out across the continent. The fire giants went to the mountains, the frost giants to the arctic in the north, and the hill giants went to the hills. To cover his retreat, he made his own dragons. The chromatic dragons 
+
+h4. Environment
+
+Isla Zabrav is mountainous, with peaks that rise above the clouds and jungles that choke out the sun. Once off the beaches, the humid air stinks of decaying plant matter as the jungle digests the creatures unlucky or unwary enough to have fallen prey to the massive beasts that roam it. Permanent lenticular clouds surround the three massive snowy summits, but a dauntless hero who braves the icy slopes will feel the sun again at the pinnacle of the mountain. The centre peak is the tallest of the three, and has a permanent storm surrounding it. Recent reports from those souls fortunate enough to have escaped the island say that a scowling visage can be seen in the clouds.
+
+h4. Monsters
+
+Dinosaurs roam this place, giant lizard creatures that time has forgotten. Some are aggressive, others are docile, but their size makes them dangerous to the intrepid adventurer. All manner of beasts and aberrations are found here, but inflated in size.
+
+Storm Giant Quintessent - The perpetual storm at the summit of the central mountain is in fact a storm giant quintessent, one of the three remaining storm giants. She was given the gift of foresight by Anya, but was driven mad by her death/imprisonment.
+
+Storm Giants - on the other two peaks also live storm giants, the remaining two that still live. They are at odds with each other, one believing the portents and omens point to Anya's return, and the other interpreting them in the opposite direction. They both wish the quintessent would calm herself to give them guidance, but gave up trying to help her themselves decades ago.
+
+h4. Locations
+Mountain peaks - home to the storm giants
+Narrow jungle canyon - home to girallons
+West mountain slopes - 
+Centre mountain slopes - Annis hag lair, she has a troll/ogre companion
+East mountain slopes - </content>
+      <content gm_only="true" format="html">&lt;p&gt;The Forgotten Isle, known to the elves as Isla Zabrav, is where the gods took their first steps upon &lt;a href="/wikis/Zemia/new" class="create-wiki-page-link"&gt;Zemia&lt;/a&gt;.&lt;/p&gt;
+&lt;h4&gt;History&lt;/h4&gt;
+&lt;p&gt;When &lt;a href="/characters/isten" class="wiki-content-link"&gt;Isten&lt;/a&gt; and &lt;a href="/characters/anya" class="wiki-content-link"&gt;Anya&lt;/a&gt; finally finished constructing Zemia&amp;#8217;s continents, they took physical form and came down to examine their creation. They stood on the high mountains overlooking the sea and decided that all was good. They sat a while to determine their next course of action, and agreed to create together a series of creatures to enjoy their world. Thus were created the giant races.&lt;/p&gt;
+&lt;p&gt;Isten created the hill, frost, and fire giants, while Anya created the stone, cloud, and storm giants. Isten looked upon Anya&amp;#8217;s creations and felt jealous toward them. While he was proud of the brute strength of his frost giants and the fire giants were masterful smiths and warriors, the beauty of the structures created by the stone and cloud giants awed him. He wished he could create such beauty, and struck against them with his giants to destroy the wondrous cloud city hanging before him.&lt;/p&gt;
+&lt;p&gt;Anya recoiled in horror at Isten&amp;#8217;s destruction, and created the metallic dragons (her favourite form) in retaliation. The dragons were sent against the giants of Isten to cover for her giants&amp;#8217; escape. She took her stone and cloud giants and hid them in the mountains of &lt;a href="/wikis/drakon" class="wiki-page-link"&gt;Drakon&lt;/a&gt;, giving them instructions to stay hidden from the world. The storm giants were all but destroyed in the fighting, with just three surviving. Anya gave the remaining three the ability to see omens and portents of the future, in order to protect against any further betrayal by Isten. They took up residence on the three peaks of Isla Zabrav.&lt;/p&gt;
+&lt;p&gt;Isten took his own giants to &lt;a href="/wikis/zhestok" class="wiki-page-link"&gt;Zhestok&lt;/a&gt;, and spread them out across the continent. The fire giants went to the mountains, the frost giants to the arctic in the north, and the hill giants went to the hills. To cover his retreat, he made his own dragons. The chromatic dragons&lt;/p&gt;
+&lt;h4&gt;Environment&lt;/h4&gt;
+&lt;p&gt;Isla Zabrav is mountainous, with peaks that rise above the clouds and jungles that choke out the sun. Once off the beaches, the humid air stinks of decaying plant matter as the jungle digests the creatures unlucky or unwary enough to have fallen prey to the massive beasts that roam it. Permanent lenticular clouds surround the three massive snowy summits, but a dauntless hero who braves the icy slopes will feel the sun again at the pinnacle of the mountain. The centre peak is the tallest of the three, and has a permanent storm surrounding it. Recent reports from those souls fortunate enough to have escaped the island say that a scowling visage can be seen in the clouds.&lt;/p&gt;
+&lt;h4&gt;Monsters&lt;/h4&gt;
+&lt;p&gt;Dinosaurs roam this place, giant lizard creatures that time has forgotten. Some are aggressive, others are docile, but their size makes them dangerous to the intrepid adventurer. All manner of beasts and aberrations are found here, but inflated in size.&lt;/p&gt;
+&lt;p&gt;Storm Giant Quintessent &amp;#8211; The perpetual storm at the summit of the central mountain is in fact a storm giant quintessent, one of the three remaining storm giants. She was given the gift of foresight by Anya, but was driven mad by her death/imprisonment.&lt;/p&gt;
+&lt;p&gt;Storm Giants &amp;#8211; on the other two peaks also live storm giants, the remaining two that still live. They are at odds with each other, one believing the portents and omens point to Anya&amp;#8217;s return, and the other interpreting them in the opposite direction. They both wish the quintessent would calm herself to give them guidance, but gave up trying to help her themselves decades ago.&lt;/p&gt;
+&lt;h4&gt;Locations&lt;br /&gt;
+Mountain peaks &amp;#8211; home to the storm giants&lt;br /&gt;
+Narrow jungle canyon &amp;#8211; home to girallons&lt;br /&gt;
+West mountain slopes &amp;#8211; &lt;br /&gt;
+Centre mountain slopes &amp;#8211; Annis hag lair, she has a troll/ogre companion&lt;br /&gt;
+East mountain slopes -&lt;/h4&gt;</content>
+    </page>
+    <page gm_only="false">
+      <id>http://zemia.obsidianportal.com/wiki_pages/2650095</id>
+      <link>http://zemia.obsidianportal.com/wiki_pages/temple-of-the-order-of-the-dragon</link>
+      <title>Temple of the Order of the Dragon</title>
+      <published>2018-10-15T02:37:42Z</published>
+      <content gm_only="false" format="textile">The Temple of the Order of the Dragon is a monastery in the mountains between [[Eversail]] and [[Southharbor]]. </content>
+      <content gm_only="true" format="html">&lt;p&gt;The Temple of the Order of the Dragon is a monastery in the mountains between &lt;a href="/wikis/eversail" class="wiki-page-link"&gt;Eversail&lt;/a&gt; and &lt;a href="/wikis/Southharbor/new" class="create-wiki-page-link"&gt;Southharbor&lt;/a&gt;.&lt;/p&gt;</content>
+      <content gm_only="true" format="textile">The master of the temple is [[Laucian Galandonel]]. 
+
+The temple guards the Manual of Quickness of Action. An adventurer who wishes to read the tome must defeat Master Galandonel's tasks. The tome is kept in a cave beneath a waterfall. The tome will not reveal itself to anyone who was touched by the water?
+
+Skill Challenge
+* Obstacle course of balancing beams and ropes and nets
+** Need to succeed within a time limit
+** 2 posts where you can catch your breath
+*** DC 22 for easier path, DC 24 for harder path, DC 26 for hardest path - rated slowest to fastest
+*** DC 25 for easier path, DC 27 for harder path, DC 29 for hardest path - rated slowest to fastest
+*** DC 28 for easier path, DC 30 for harder path, DC 32 for hardest path - rated slowest to fastest
+* Defeat Galandonel in single combat
+* Waterfall challenge - retrieve the book without getting wet
+</content>
+      <content gm_only="true" format="html">&lt;p&gt;The master of the temple is &lt;a href="/wikis/laucian-galandonel" class="wiki-page-link"&gt;Laucian Galandonel&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The temple guards the Manual of Quickness of Action. An adventurer who wishes to read the tome must defeat Master Galandonel&amp;#8217;s tasks. The tome is kept in a cave beneath a waterfall. The tome will not reveal itself to anyone who was touched by the water?&lt;/p&gt;
+&lt;p&gt;Skill Challenge&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Obstacle course of balancing beams and ropes and nets
+	&lt;ul&gt;
+		&lt;li&gt;Need to succeed within a time limit&lt;/li&gt;
+		&lt;li&gt;2 posts where you can catch your breath
+		&lt;ul&gt;
+			&lt;li&gt;DC 22 for easier path, DC 24 for harder path, DC 26 for hardest path &amp;#8211; rated slowest to fastest&lt;/li&gt;
+			&lt;li&gt;DC 25 for easier path, DC 27 for harder path, DC 29 for hardest path &amp;#8211; rated slowest to fastest&lt;/li&gt;
+			&lt;li&gt;DC 28 for easier path, DC 30 for harder path, DC 32 for hardest path &amp;#8211; rated slowest to fastest&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Defeat Galandonel in single combat&lt;/li&gt;
+	&lt;li&gt;Waterfall challenge &amp;#8211; retrieve the book without getting wet&lt;/li&gt;
+&lt;/ul&gt;</content>
+    </page>
+    <page gm_only="true">
+      <id>http://zemia.obsidianportal.com/wiki_pages/2650508</id>
+      <link>http://zemia.obsidianportal.com/wiki_pages/laucian-galandonel</link>
+      <title>Laucian Galandonel</title>
+      <published>2018-10-15T17:58:29Z</published>
+      <content gm_only="false" format="textile">ddb.ac/characters/5992623/1at99p</content>
+      <content gm_only="true" format="html">&lt;p&gt;ddb.ac/characters/5992623/1at99p&lt;/p&gt;</content>
+      <content gm_only="true" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+    </page>
+    <page gm_only="true">
+      <id>http://zemia.obsidianportal.com/wiki_pages/2650535</id>
+      <link>http://zemia.obsidianportal.com/wiki_pages/cairnheim</link>
+      <title>Cairnheim</title>
+      <published>2018-10-15T18:37:55Z</published>
+      <content gm_only="false" format="textile">Cairnheim is a stone giant city located in the mountains between [[Eversail]] and [[Southharbor]]. </content>
+      <content gm_only="true" format="html">&lt;p&gt;Cairnheim is a stone giant city located in the mountains between &lt;a href="/wikis/eversail" class="wiki-page-link"&gt;Eversail&lt;/a&gt; and &lt;a href="/wikis/Southharbor/new" class="create-wiki-page-link"&gt;Southharbor&lt;/a&gt;.&lt;/p&gt;</content>
+      <content gm_only="true" format="textile">See Dungeon Magazine - 198.pdf and Warrens of the Stone Giant Thane - 5E Conversion.pdf on USB for maps.</content>
+      <content gm_only="true" format="html">&lt;p&gt;See Dungeon Magazine &amp;#8211; 198.pdf and Warrens of the Stone Giant Thane &amp;#8211; 5E Conversion.pdf on &lt;span class="caps"&gt;USB&lt;/span&gt; for maps.&lt;/p&gt;</content>
+    </page>
+  </wiki>
+  <characters>
+    <character gm_only="true" pc="false">
+      <id>http://zemia.obsidianportal.com/characters/798727</id>
+      <link>http://zemia.obsidianportal.com/characters/anya</link>
+      <title>Anya</title>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="false" format="html"></content>
+      <content gm_only="false" format="textile">Anya is the god of the natural world; pastures, forests, poetry, music, art, life, the sun. Worship of Anya has largely disappeared since the end of the [[Dwarven Civil War]], considered to be a relic of a bygone era. The powers of her priests, priestesses, clerics, and paladins disappeared the instant the southern mountain erupted. </content>
+      <content gm_only="false" format="html">&lt;p&gt;Anya is the god of the natural world; pastures, forests, poetry, music, art, life, the sun. Worship of Anya has largely disappeared since the end of the &lt;a href="/wikis/Dwarven%20Civil%20War/new" class="create-wiki-page-link"&gt;Dwarven Civil War&lt;/a&gt;, considered to be a relic of a bygone era. The powers of her priests, priestesses, clerics, and paladins disappeared the instant the southern mountain erupted.&lt;/p&gt;</content>
+      <content gm_only="true" format="textile">Anya is the older brother of [[:isten | Isten]].  She watches over him and is teaching him how to create worlds. They have created several worlds together, forming them from dust and populating them with life. She favours gentle worlds, where the races are given freedom to create art in all its forms.
+
+Anya was trapped inside the earth during the [[Dwarven Civil War]], buried beneath the southern mountain. Material God Name supresses her power while she is buried, and she can only give power to a select few. Her worship has fallen out of favour, as the [[Priests of Anya]] could no longer prove her power to their congregations. Her inprisonment has caused the southern mountain to erupt continually, lava flowing down its southern face and rushing towards the sea. The city of [[Hellforge]] was built adjacent to the lava flow, and uses the flow's heat and minerals to run their wondrous forges.
+
+Anya takes the form of a great red dragon, can breath fire, and can fly.</content>
+      <content gm_only="true" format="html">&lt;p&gt;Anya is the older brother of &lt;a href="/characters/isten" class="wiki-content-link"&gt;Isten&lt;/a&gt;.  She watches over him and is teaching him how to create worlds. They have created several worlds together, forming them from dust and populating them with life. She favours gentle worlds, where the races are given freedom to create art in all its forms.&lt;/p&gt;
+&lt;p&gt;Anya was trapped inside the earth during the &lt;a href="/wikis/Dwarven%20Civil%20War/new" class="create-wiki-page-link"&gt;Dwarven Civil War&lt;/a&gt;, buried beneath the southern mountain. Material God Name supresses her power while she is buried, and she can only give power to a select few. Her worship has fallen out of favour, as the &lt;a href="/wikis/Priests%20of%20Anya/new" class="create-wiki-page-link"&gt;Priests of Anya&lt;/a&gt; could no longer prove her power to their congregations. Her inprisonment has caused the southern mountain to erupt continually, lava flowing down its southern face and rushing towards the sea. The city of &lt;a href="/wikis/Hellforge/new" class="create-wiki-page-link"&gt;Hellforge&lt;/a&gt; was built adjacent to the lava flow, and uses the flow&amp;#8217;s heat and minerals to run their wondrous forges.&lt;/p&gt;
+&lt;p&gt;Anya takes the form of a great red dragon, can breath fire, and can fly.&lt;/p&gt;</content>
+    </character>
+    <character gm_only="true" pc="false">
+      <id>http://zemia.obsidianportal.com/characters/798793</id>
+      <link>http://zemia.obsidianportal.com/characters/isten</link>
+      <title>Isten</title>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="false" format="html"></content>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="false" format="html"></content>
+      <content gm_only="true" format="textile">Isten is the younger brother of [[:anya | Anya]]. Together they have created many worlds, with [[Zemia]] being the most recent. Unlike his sister, Isten favours progress, knowledge, and innovation, desiring the races to use the world they have been given to create new things. He despises art, thinking it purposeless, and has tried in the past to provoke ambition in the races on their worlds. Anya has always found his desires tasteless, believing that a world without poetry a bland world indeed. Since she was older and more powerful, she has always undone his touch upon the worlds, frustrating his attempts at creation. 
+
+Isten chafed under his sister's command, desiring to prove that a world of his creation would be just as successful as Anya's worlds. On Zemia, Isten laid the seeds of ambition deep within the dwarves and gnomes, allowing them to corrupt the easily manipulated humans. He planned to use the dwarves to take over the world and remake it the way he saw fit. The ambitious factions within the dwarves caused a rift among the clans, creating a civil war. The innovative gnomes paired with the ambitious dwarven clans to create terrible war machines that swung the war in their favour. When Anya manifested herself on the world to stop the war, Isten sprung his trap, burying her beneath a mountain. He kept her trapped there, suppressing her powers - weakened since she was physically manifested - and allowed his dwarves to win the war.</content>
+      <content gm_only="true" format="html">&lt;p&gt;Isten is the younger brother of &lt;a href="/characters/anya" class="wiki-content-link"&gt;Anya&lt;/a&gt;. Together they have created many worlds, with &lt;a href="/wikis/Zemia/new" class="create-wiki-page-link"&gt;Zemia&lt;/a&gt; being the most recent. Unlike his sister, Isten favours progress, knowledge, and innovation, desiring the races to use the world they have been given to create new things. He despises art, thinking it purposeless, and has tried in the past to provoke ambition in the races on their worlds. Anya has always found his desires tasteless, believing that a world without poetry a bland world indeed. Since she was older and more powerful, she has always undone his touch upon the worlds, frustrating his attempts at creation.&lt;/p&gt;
+&lt;p&gt;Isten chafed under his sister&amp;#8217;s command, desiring to prove that a world of his creation would be just as successful as Anya&amp;#8217;s worlds. On Zemia, Isten laid the seeds of ambition deep within the dwarves and gnomes, allowing them to corrupt the easily manipulated humans. He planned to use the dwarves to take over the world and remake it the way he saw fit. The ambitious factions within the dwarves caused a rift among the clans, creating a civil war. The innovative gnomes paired with the ambitious dwarven clans to create terrible war machines that swung the war in their favour. When Anya manifested herself on the world to stop the war, Isten sprung his trap, burying her beneath a mountain. He kept her trapped there, suppressing her powers &amp;#8211; weakened since she was physically manifested &amp;#8211; and allowed his dwarves to win the war.&lt;/p&gt;</content>
+    </character>
+    <character gm_only="false" pc="true">
+      <id>http://zemia.obsidianportal.com/characters/944088</id>
+      <link>http://zemia.obsidianportal.com/characters/varis</link>
+      <title>Varis Elfson</title>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="false" format="html"></content>
+      <content gm_only="false" format="textile">Born to middle-class tradespeople in a fair sized settlement on [[Drakon | Drakon]], where my parents were part of a trade organization.
+In my youth I was unjustly convicted, imprisoned, punished and made a display of to the public. This experience has stated with me. My crime was unlawful use of magic, with my final punishment being exile from my settlement.
+After my exile, I was discovered by a circle of druids that protect the expanse of the wilderness. I was taught my duty to nature and the power that nature grants them. I have learned enough to join the circle as an initiate.</content>
+      <content gm_only="false" format="html">&lt;p&gt;Born to middle-class tradespeople in a fair sized settlement on &lt;a href="/wikis/drakon" class="wiki-page-link"&gt; Drakon&lt;/a&gt;, where my parents were part of a trade organization.&lt;br /&gt;
+In my youth I was unjustly convicted, imprisoned, punished and made a display of to the public. This experience has stated with me. My crime was unlawful use of magic, with my final punishment being exile from my settlement.&lt;br /&gt;
+After my exile, I was discovered by a circle of druids that protect the expanse of the wilderness. I was taught my duty to nature and the power that nature grants them. I have learned enough to join the circle as an initiate.&lt;/p&gt;</content>
+      <content gm_only="true" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+    </character>
+    <character gm_only="false" pc="true">
+      <id>http://zemia.obsidianportal.com/characters/944089</id>
+      <link>http://zemia.obsidianportal.com/characters/amrik</link>
+      <title>Amrik</title>
+      <content gm_only="false" format="textile">rip</content>
+      <content gm_only="false" format="html">&lt;p&gt;rip&lt;/p&gt;</content>
+      <content gm_only="false" format="textile">Died fighting a black goo in the [[Silverfield | Silverfield]] sewers, damn human cities and their nasty sewers.
+
+
+
+h6. RIP</content>
+      <content gm_only="false" format="html">&lt;p&gt;Died fighting a black goo in the &lt;a href="/wikis/silverfield" class="wiki-page-link"&gt; Silverfield&lt;/a&gt; sewers, damn human cities and their nasty sewers.&lt;/p&gt;
+&lt;h6&gt;&lt;span class="caps"&gt;RIP&lt;/span&gt;&lt;/h6&gt;</content>
+      <content gm_only="true" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+    </character>
+    <character gm_only="false" pc="true">
+      <id>http://zemia.obsidianportal.com/characters/944091</id>
+      <link>http://zemia.obsidianportal.com/characters/aerandir</link>
+      <title>Aerandir</title>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="false" format="html"></content>
+      <content gm_only="false" format="textile">Hailing from a monastery dedicated to Anya located in the elven city of Cormanthyr on the Isle of Mist, Aerandir was not actually a fully fledged monk when the city was attacked by monsters. He was simply a devout follower of Anya hoping to join the monastery after turning away from a life of wealth accumulated through the sale of medicines and potions. A life that left him spiritually unfulfilled. 
+
+Just mere months before the city's destruction Aerandir was finally assigned to a master. Quelenna was an elf female who was known for her wit and cunningness, but Aerandir was not happy to be assigned to her in particular. He had heard that she was strict and harsh in her training methods. Aerandir had only just been taught the most basic forms and movements of martial arts that all higher forms are built upon when the city was attacked.
+
+In the ensuing chaos of the monster attack on the city, Aerandir grabbed what knowledge scrolls he could from his room and the now upended library before rushing out into the city to find his master and help her defend their home. In a brave, but fool-hardy charge against a massive creature, Aerandir was clubbed unconscious from one massive blow to the head and knocked out of the treetop paths to the forest floor below, buried beneath brush and twigs.
+
+When he awoke, in a muddy pile of branches, the world around him was quiet and the smell of ash hung in the air. Where was he? Why did his head hurt?
+
+Whether from the blow to the head or the trauma of losing his home, Aerandir's memory remained patchy at best.
+
+
+
+</content>
+      <content gm_only="false" format="html">&lt;p&gt;Hailing from a monastery dedicated to Anya located in the elven city of Cormanthyr on the Isle of Mist, Aerandir was not actually a fully fledged monk when the city was attacked by monsters. He was simply a devout follower of Anya hoping to join the monastery after turning away from a life of wealth accumulated through the sale of medicines and potions. A life that left him spiritually unfulfilled.&lt;/p&gt;
+&lt;p&gt;Just mere months before the city&amp;#8217;s destruction Aerandir was finally assigned to a master. Quelenna was an elf female who was known for her wit and cunningness, but Aerandir was not happy to be assigned to her in particular. He had heard that she was strict and harsh in her training methods. Aerandir had only just been taught the most basic forms and movements of martial arts that all higher forms are built upon when the city was attacked.&lt;/p&gt;
+&lt;p&gt;In the ensuing chaos of the monster attack on the city, Aerandir grabbed what knowledge scrolls he could from his room and the now upended library before rushing out into the city to find his master and help her defend their home. In a brave, but fool-hardy charge against a massive creature, Aerandir was clubbed unconscious from one massive blow to the head and knocked out of the treetop paths to the forest floor below, buried beneath brush and twigs.&lt;/p&gt;
+&lt;p&gt;When he awoke, in a muddy pile of branches, the world around him was quiet and the smell of ash hung in the air. Where was he? Why did his head hurt?&lt;/p&gt;
+&lt;p&gt;Whether from the blow to the head or the trauma of losing his home, Aerandir&amp;#8217;s memory remained patchy at best.&lt;/p&gt;</content>
+      <content gm_only="true" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+    </character>
+    <character gm_only="false" pc="true">
+      <id>http://zemia.obsidianportal.com/characters/944093</id>
+      <link>http://zemia.obsidianportal.com/characters/sanmo</link>
+      <title>Sanmo</title>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="false" format="html"></content>
+      <content gm_only="false" format="textile">-Raised as part of a nomadic band of halflings traders, but found it too stifling/not exciting enough (they stuck to main roads/cities only, and were very cautious/unadventurous), and slipped away into a nearby big city as a young teen.
+
+-Forced to fend for himself, he taught himself to pickpocket/steal/etc... to make a living, however his morals meant he would only steal from those who could afford to lose it.
+
+-Tried to pickpocket a gentleman, only to have his brother, the captain of the cities watch catch him and put him in jail, however the gentleman (while being an upstanding member of the community, curator of a local art gallery) had some shady connections and saw an opportunity.  He defended Sanmo to his brother, claiming he was afraid of pickpockets, and thus had hired Sanmo to train him to defend from pickpockets through practice.
+
+-The captain of the cities watch is Sanmo's adversary, never trusting Sanmo after catching him in the act, even with his brothers defense, and tries to catch Sanmo at every turn and watches him carefully when hes in town.
+
+-The art curator with criminal connections is Sanmo's benefactor, not only preventing his brother from throwing him into jail, but also offering him leads on good joints to steal from in exchange for a cut of the profits. In exchange, Sanmo keeps an eye out for especially unique art pieces to return to the gentleman for his own private gallery.
+
+-Sanmo has always lusted for a challenge and excitement (thats why he left his family in the first place), and so he can't resist stealing something if it's put to him as a challenge.</content>
+      <content gm_only="false" format="html">&lt;p&gt;-Raised as part of a nomadic band of halflings traders, but found it too stifling/not exciting enough (they stuck to main roads/cities only, and were very cautious/unadventurous), and slipped away into a nearby big city as a young teen.&lt;/p&gt;
+&lt;p&gt;-Forced to fend for himself, he taught himself to pickpocket/steal/etc&amp;#8230; to make a living, however his morals meant he would only steal from those who could afford to lose it.&lt;/p&gt;
+&lt;p&gt;-Tried to pickpocket a gentleman, only to have his brother, the captain of the cities watch catch him and put him in jail, however the gentleman (while being an upstanding member of the community, curator of a local art gallery) had some shady connections and saw an opportunity.  He defended Sanmo to his brother, claiming he was afraid of pickpockets, and thus had hired Sanmo to train him to defend from pickpockets through practice.&lt;/p&gt;
+&lt;p&gt;-The captain of the cities watch is Sanmo&amp;#8217;s adversary, never trusting Sanmo after catching him in the act, even with his brothers defense, and tries to catch Sanmo at every turn and watches him carefully when hes in town.&lt;/p&gt;
+&lt;p&gt;-The art curator with criminal connections is Sanmo&amp;#8217;s benefactor, not only preventing his brother from throwing him into jail, but also offering him leads on good joints to steal from in exchange for a cut of the profits. In exchange, Sanmo keeps an eye out for especially unique art pieces to return to the gentleman for his own private gallery.&lt;/p&gt;
+&lt;p&gt;-Sanmo has always lusted for a challenge and excitement (thats why he left his family in the first place), and so he can&amp;#8217;t resist stealing something if it&amp;#8217;s put to him as a challenge.&lt;/p&gt;</content>
+      <content gm_only="true" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+    </character>
+    <character gm_only="false" pc="false">
+      <id>http://zemia.obsidianportal.com/characters/944111</id>
+      <link>http://zemia.obsidianportal.com/characters/roce-sadett</link>
+      <title>Roce Sadett</title>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="false" format="html"></content>
+      <content gm_only="false" format="textile">The [[Sadett Family|Sadett]] crest is a black badger on a green and red slashed field. [[File:645786  | class=media-item-align-left | 102x106px | CoA_-_Sadett.png]]
+
+He owns a very impressive carriage, with gilding on the exterior accents and rich embroidered cloth on the interior.
+
+He has two older brothers and an older sister. Roce is  the youngest of the Sadett family, and as such needs to prove himself. He hopes to bring down his family's greatest rival, the Tanahs, and show his father and mother his worth. He and his brother are here on the island, his sister is on Drakon at Eversail, and his oldest brother and his parents are on Zhestok at Windy Cove. If he can prove his worth, he will be able to leave the island and get a position of greater power and influence on Drakon.
+
+      The Sadett family rules from Windy Cove on Zhestok, controlling the surrounding regions. They are at odds with the other 3 major families from Zhestok, the Tanahs, the Risols, and the Notos.</content>
+      <content gm_only="false" format="html">&lt;p&gt;The &lt;a href="/wikis/Sadett%20Family/new" class="create-wiki-page-link"&gt;Sadett&lt;/a&gt; crest is a black badger on a green and red slashed field. &lt;img src="https://db4sgowjqfwig.cloudfront.net/campaigns/98873/assets/645786/CoA_-_Sadett.png?1475023432" class="asset-reference image-asset-reference media-item-align-left" data-asset-id="645786" width="102" height="106" alt="CoA_-_Sadett.png" title="CoA_-_Sadett.png"/&gt;&lt;/p&gt;
+      &lt;p&gt;He owns a very impressive carriage, with gilding on the exterior accents and rich embroidered cloth on the interior.&lt;/p&gt;
+      &lt;p&gt;He has two older brothers and an older sister. Roce is  the youngest of the Sadett family, and as such needs to prove himself. He hopes to bring down his family&amp;#8217;s greatest rival, the Tanahs, and show his father and mother his worth. He and his brother are here on the island, his sister is on Drakon at Eversail, and his oldest brother and his parents are on Zhestok at Windy Cove. If he can prove his worth, he will be able to leave the island and get a position of greater power and influence on Drakon.&lt;/p&gt;
+      &lt;p&gt;The Sadett family rules from Windy Cove on Zhestok, controlling the surrounding regions. They are at odds with the other 3 major families from Zhestok, the Tanahs, the Risols, and the Notos.&lt;/p&gt;</content>
+      <content gm_only="true" format="textile">Roce has seen that the party has considerable skills, and wishes to use them for his advantage. He will do as they ask, gaining them entry to the city via a smuggling entrance he knows of (to bypass slave taxes), in order to get on their good side and hopefully take out one or more of his competitors. He will figure out what they want, and work with them to try to acheive his own goals.
+
+      [[:valko-sadett | Valko Sadett]] is his brother on the Isle of Mists, [[:ivo-sadett | Ivo Sadett]] is the eldest brother, [[:yana-sadett | Yana Sadett]] is his sister (currently in Eversail), [[:raina-sadett | Raina Sadett]] and [[:kamen-sadett | Kamen Sadett]] are his parents. Ivo, Raina, and Kamen are all currently in Windy Cove.</content>
+      <content gm_only="true" format="html">&lt;p&gt;Roce has seen that the party has considerable skills, and wishes to use them for his advantage. He will do as they ask, gaining them entry to the city via a smuggling entrance he knows of (to bypass slave taxes), in order to get on their good side and hopefully take out one or more of his competitors. He will figure out what they want, and work with them to try to acheive his own goals.&lt;/p&gt;
+      &lt;p&gt;&lt;a href="/characters/valko-sadett" class="wiki-content-link"&gt;Valko Sadett&lt;/a&gt; is his brother on the Isle of Mists, &lt;a href="/characters/ivo-sadett" class="wiki-content-link"&gt;Ivo Sadett&lt;/a&gt; is the eldest brother, &lt;a href="/characters/yana-sadett" class="wiki-content-link"&gt;Yana Sadett&lt;/a&gt; is his sister (currently in Eversail), &lt;a href="/characters/raina-sadett" class="wiki-content-link"&gt;Raina Sadett&lt;/a&gt; and &lt;a href="/characters/kamen-sadett" class="wiki-content-link"&gt;Kamen Sadett&lt;/a&gt; are his parents. Ivo, Raina, and Kamen are all currently in Windy Cove.&lt;/p&gt;</content>
+    </character>
+    <character gm_only="false" pc="false">
+      <id>http://zemia.obsidianportal.com/characters/944118</id>
+      <link>http://zemia.obsidianportal.com/characters/doug</link>
+      <title>Doug 'Torchbearer' Tribesman</title>
+      <content gm_only="false" format="textile">[[Party | The Party]] came across Doug while traversing through the [[Swamplands | Swamplands]] on their way towards [[The Cave | The Cave]]. He was part of a small group of tribesmen who initially attacked the party as intruders.
+      Doesn't speak many actual words but loves to follow [[:varis | Varis]] around due to his impressive druidic powers and magic abilities.
+      Is often afraid of any form of monster or unnatural beasts. When he followed the Party into The Cave, he became the torch bearer for the group and neared the title of 'Torchbearer' by spreading the light for the members of the party without darkvision (ie. [[:sanmo | Sanmo]]).
+      After the adventure in the cave, Doug left the party and went back to the swamp where he was originally from to live out the rest of his days like before.</content>
+      <content gm_only="false" format="html">&lt;p&gt;&lt;a href="/wikis/party" class="wiki-page-link"&gt; The Party&lt;/a&gt; came across Doug while traversing through the &lt;a href="/wikis/Swamplands/new" class="create-wiki-page-link"&gt; Swamplands&lt;/a&gt; on their way towards &lt;a href="/wikis/The%20Cave/new" class="create-wiki-page-link"&gt; The Cave&lt;/a&gt;. He was part of a small group of tribesmen who initially attacked the party as intruders.&lt;br /&gt;
+      Doesn&amp;#8217;t speak many actual words but loves to follow &lt;a href="/characters/varis" class="wiki-content-link"&gt;Varis&lt;/a&gt; around due to his impressive druidic powers and magic abilities.&lt;br /&gt;
+      Is often afraid of any form of monster or unnatural beasts. When he followed the Party into The Cave, he became the torch bearer for the group and neared the title of &amp;#8216;Torchbearer&amp;#8217; by spreading the light for the members of the party without darkvision (ie. &lt;a href="/characters/sanmo" class="wiki-content-link"&gt;Sanmo&lt;/a&gt;).&lt;br /&gt;
+      After the adventure in the cave, Doug left the party and went back to the swamp where he was originally from to live out the rest of his days like before.&lt;/p&gt;</content>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="false" format="html"></content>
+      <content gm_only="true" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+    </character>
+    <character gm_only="false" pc="false">
+      <id>http://zemia.obsidianportal.com/characters/944126</id>
+      <link>http://zemia.obsidianportal.com/characters/ral-tanah</link>
+      <title>Ral Tanah</title>
+      <content gm_only="false" format="textile">Ral is mid-40s, tall, with black hair, brown eyes, and a goatee. 
+
+      He lives in a manor on the outskirts of [[Shipmaker's Bay]] on [[The Isle of Mists]]. </content>
+      <content gm_only="false" format="html">&lt;p&gt;Ral is mid-40s, tall, with black hair, brown eyes, and a goatee.&lt;/p&gt;
+      &lt;p&gt;He lives in a manor on the outskirts of &lt;a href="/wikis/Shipmaker%27s%20Bay/new" class="create-wiki-page-link"&gt;Shipmaker&amp;#8217;s Bay&lt;/a&gt; on &lt;a href="/wikis/the-isle-of-mists" class="wiki-page-link"&gt;The Isle of Mists&lt;/a&gt;.&lt;/p&gt;</content>
+      <content gm_only="false" format="textile">The [[Tanah Family|Tanah]] family crest is a viper on a horizontal field of yellow and blue. [[File:645787  | class=media-item-align-left | 97x103px | CoA_-_Tanah.png]]
+
+      They own a large storage facility and slave quarters in Silverfield.
+
+      </content>
+      <content gm_only="false" format="html">&lt;p&gt;The &lt;a href="/wikis/Tanah%20Family/new" class="create-wiki-page-link"&gt;Tanah&lt;/a&gt; family crest is a viper on a horizontal field of yellow and blue. &lt;img src="https://db4sgowjqfwig.cloudfront.net/campaigns/98873/assets/645787/CoA_-_Tanah.png?1475023567" class="asset-reference image-asset-reference media-item-align-left" data-asset-id="645787" width="97" height="103" alt="CoA_-_Tanah.png" title="CoA_-_Tanah.png"/&gt;&lt;/p&gt;
+      &lt;p&gt;They own a large storage facility and slave quarters in Silverfield.&lt;/p&gt;</content>
+      <content gm_only="true" format="textile">The Tanah family is the dominant one on the Isle of Mists, and controls most of the happenings on the island. 
+
+      The artifact from the Elven city resides in their expansive manor estate on the cliffs to the south of Shipmaker Bay. They have many valuable paintings adorning the walls, and many treasures stolen from slaves can be found within the manor. The estate is well guarded around the clock, and has magical wards to notify the guards.
+
+      Ral is a closet xenophile, disguising himself as a xenophobe. He is still inherently/implicitly racist, treating his harem as pets/playthings. He isn't particularly religious or zealous, and is not concerned about the overall non-human subjugation strategy. 
+
+      Wants:
+      To maintain his lifestyle beyond the reaches of his family
+      Comfort, prestige, opulence
+
+      Fears:
+      Facing his family - wife and parents don't approve of his hedonism
+      His harem being discovered
+
+      Ral was kidnapped from his manor by the Party during a botched heist attempt. They used his unconscious form to unlock the magical wards on the vault. After stealing all the relics, magic items, and treasure from the vault, the Party left him unconscious in the woods. He eventually made his way out of the woods, back to his manor, where he found out that the Party used magic to imitate him and steal his ship. 
+
+      </content>
+      <content gm_only="true" format="html">&lt;p&gt;The Tanah family is the dominant one on the Isle of Mists, and controls most of the happenings on the island.&lt;/p&gt;
+      &lt;p&gt;The artifact from the Elven city resides in their expansive manor estate on the cliffs to the south of Shipmaker Bay. They have many valuable paintings adorning the walls, and many treasures stolen from slaves can be found within the manor. The estate is well guarded around the clock, and has magical wards to notify the guards.&lt;/p&gt;
+      &lt;p&gt;Ral is a closet xenophile, disguising himself as a xenophobe. He is still inherently/implicitly racist, treating his harem as pets/playthings. He isn&amp;#8217;t particularly religious or zealous, and is not concerned about the overall non-human subjugation strategy.&lt;/p&gt;
+      &lt;p&gt;Wants:&lt;br /&gt;
+      To maintain his lifestyle beyond the reaches of his family&lt;br /&gt;
+      Comfort, prestige, opulence&lt;/p&gt;
+      &lt;p&gt;Fears:&lt;br /&gt;
+      Facing his family &amp;#8211; wife and parents don&amp;#8217;t approve of his hedonism&lt;br /&gt;
+      His harem being discovered&lt;/p&gt;
+      &lt;p&gt;Ral was kidnapped from his manor by the Party during a botched heist attempt. They used his unconscious form to unlock the magical wards on the vault. After stealing all the relics, magic items, and treasure from the vault, the Party left him unconscious in the woods. He eventually made his way out of the woods, back to his manor, where he found out that the Party used magic to imitate him and steal his ship.&lt;/p&gt;</content>
+    </character>
+    <character gm_only="true" pc="false">
+      <id>http://zemia.obsidianportal.com/characters/944141</id>
+      <link>http://zemia.obsidianportal.com/characters/epa-risol</link>
+      <title>Epa Risol</title>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="false" format="html"></content>
+      <content gm_only="false" format="textile">[[File:645790  | class=media-item-align-left | 104x106px | CoA_-_Risol.png]] 
+      The [[House Risol|Risol]] house crest is a pair of fish on a field of diagonal purple and white.</content>
+      <content gm_only="false" format="html">&lt;p&gt;&lt;img src="https://db4sgowjqfwig.cloudfront.net/campaigns/98873/assets/645790/CoA_-_Risol.png?1475023784" class="asset-reference image-asset-reference media-item-align-left" data-asset-id="645790" width="104" height="106" alt="CoA_-_Risol.png" title="CoA_-_Risol.png"/&gt; &lt;br /&gt;
+      The &lt;a href="/wikis/House%20Risol/new" class="create-wiki-page-link"&gt;Risol&lt;/a&gt; house crest is a pair of fish on a field of diagonal purple and white.&lt;/p&gt;</content>
+      <content gm_only="true" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+    </character>
+    <character gm_only="true" pc="false">
+      <id>http://zemia.obsidianportal.com/characters/944144</id>
+      <link>http://zemia.obsidianportal.com/characters/itia-noto</link>
+      <title>Itia Noto</title>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="false" format="html"></content>
+      <content gm_only="false" format="textile">[[File:645791  | class=media-item-align-left | 102x105px | Coa_-_Noto.png]]The coat of arms of the [[Noto Family|Noto]] family is a ram on a vertical field of red and pale blue.</content>
+      <content gm_only="false" format="html">&lt;p&gt;&lt;img src="https://db4sgowjqfwig.cloudfront.net/campaigns/98873/assets/645791/Coa_-_Noto.png?1475023828" class="asset-reference image-asset-reference media-item-align-left" data-asset-id="645791" width="102" height="105" alt="Coa_-_Noto.png" title="Coa_-_Noto.png"/&gt;The coat of arms of the &lt;a href="/wikis/Noto%20Family/new" class="create-wiki-page-link"&gt;Noto&lt;/a&gt; family is a ram on a vertical field of red and pale blue.&lt;/p&gt;</content>
+      <content gm_only="true" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+    </character>
+    <character gm_only="true" pc="false">
+      <id>http://zemia.obsidianportal.com/characters/944146</id>
+      <link>http://zemia.obsidianportal.com/characters/zoho-zuhrukt</link>
+      <title>Zoho Zuhrukt</title>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="false" format="html"></content>
+      <content gm_only="false" format="textile">[[File:645788  | class=media-item-align-left | 97x107px | CoA_-_Zuhrukt.png]]The [[Zuhrukt Clan|Zuhrukt]] clan hails from Khoret on the coast of Drakon. 
+      Their crest is a scorpion on a diagonal field of rose pink and brown. </content>
+      <content gm_only="false" format="html">&lt;p&gt;&lt;img src="https://db4sgowjqfwig.cloudfront.net/campaigns/98873/assets/645788/CoA_-_Zuhrukt.png?1475023625" class="asset-reference image-asset-reference media-item-align-left" data-asset-id="645788" width="97" height="107" alt="CoA_-_Zuhrukt.png" title="CoA_-_Zuhrukt.png"/&gt;The &lt;a href="/wikis/Zuhrukt%20Clan/new" class="create-wiki-page-link"&gt;Zuhrukt&lt;/a&gt; clan hails from Khoret on the coast of Drakon. &lt;br /&gt;
+      Their crest is a scorpion on a diagonal field of rose pink and brown.&lt;/p&gt;</content>
+      <content gm_only="true" format="textile">The Zuhrukt clan is the only noble family to incorporate non-humans into the family. They employ non-humans, and have elven blood in some of the younger clan members. They encourage close membership within the clan, and have afforded familial membership to non blood relatives. They have earned exceptional loyalty from their non-human members by ensuring their familial status is passed to their children in the case of their death. 
+
+      The Zuhrukts have a major focus on trade, and were the first human explorers of Drakon. They ended up settling in the largely uninhabited eastern deserts, where they found large amounts of gold deposits. Unlike the other families, they handsomely rewarded service in their mines instead of forced dwarven labour. This resulted in Khoret being a very multi-cultural city, with non-humans in positions of power. 
+
+      Their primary goal is to be as rich and opulent as possible, with rank in the Zuhrukt clan displayed by the amount of golden jewelry and fine clothing worn. Zoho, the rotund clan leader, has a ship entirely coated in gold that can be seen for miles without a spyglass in sunny weather. </content>
+      <content gm_only="true" format="html">&lt;p&gt;The Zuhrukt clan is the only noble family to incorporate non-humans into the family. They employ non-humans, and have elven blood in some of the younger clan members. They encourage close membership within the clan, and have afforded familial membership to non blood relatives. They have earned exceptional loyalty from their non-human members by ensuring their familial status is passed to their children in the case of their death.&lt;/p&gt;
+      &lt;p&gt;The Zuhrukts have a major focus on trade, and were the first human explorers of Drakon. They ended up settling in the largely uninhabited eastern deserts, where they found large amounts of gold deposits. Unlike the other families, they handsomely rewarded service in their mines instead of forced dwarven labour. This resulted in Khoret being a very multi-cultural city, with non-humans in positions of power.&lt;/p&gt;
+      &lt;p&gt;Their primary goal is to be as rich and opulent as possible, with rank in the Zuhrukt clan displayed by the amount of golden jewelry and fine clothing worn. Zoho, the rotund clan leader, has a ship entirely coated in gold that can be seen for miles without a spyglass in sunny weather.&lt;/p&gt;</content>
+    </character>
+    <character gm_only="false" pc="false">
+      <id>http://zemia.obsidianportal.com/characters/954166</id>
+      <link>http://zemia.obsidianportal.com/characters/clanless-korinn</link>
+      <title>Clanless Korinn</title>
+      <content gm_only="false" format="textile">Killed by the [[Party | Party]] in the second battle after being knocked unconscious after her first defeat. The Amulet of Mists was taken from her and is now worn by [[:aerandir | Aerandir]], who is the new Lord of the Mists.
+      She was not very cooperative when questioned about the Lord of Mists and was not willing to open the locked door of the chamber, even at the threat of death. She did not care about the real duties of the Lord of the Mists, and instead became bored being trapped in the chamber. Her only desires were to fight in combat for the fun of it.</content>
+      <content gm_only="false" format="html">&lt;p&gt;Killed by the &lt;a href="/wikis/party" class="wiki-page-link"&gt; Party&lt;/a&gt; in the second battle after being knocked unconscious after her first defeat. The Amulet of Mists was taken from her and is now worn by &lt;a href="/characters/aerandir" class="wiki-content-link"&gt;Aerandir&lt;/a&gt;, who is the new Lord of the Mists.&lt;br /&gt;
+      She was not very cooperative when questioned about the Lord of Mists and was not willing to open the locked door of the chamber, even at the threat of death. She did not care about the real duties of the Lord of the Mists, and instead became bored being trapped in the chamber. Her only desires were to fight in combat for the fun of it.&lt;/p&gt;</content>
+      <content gm_only="false" format="textile">Korinn was a paladin sworn to protect the innocent in the service of [[:anya | Anya]]. She was in the temple guard at the grand temple in Akarat, and personally met Anya during her initiation rites. During [[The Fall of Akarat | The Fall of Akarat]], she witnessed Isten meeting Anya on the field of battle and defeating her. She saw Anya flee before Isten, and believes Anya to have abandoned the dragonborn in their final hour.
+
+      She broke her oath of protection of the weak, and became an Oathbreaker Paladin. She was sent to the Drow to train in the underdark under the tutelage of their weapons masters. 
+
+      She was one of the leaders of the monster attack on the Elvish city on the [[The Isle of Mists | Isle of Mists]], and personally slew the Lord of the Mists in the [[The Grey Keep | Grey Keep]]. He cursed her with his dying breath, making her the new Lord of the Mists.
+
+      She fell to the party in the Grey Keep after challenging them to combat.</content>
+      <content gm_only="false" format="html">&lt;p&gt;Korinn was a paladin sworn to protect the innocent in the service of &lt;a href="/characters/anya" class="wiki-content-link"&gt;Anya&lt;/a&gt;. She was in the temple guard at the grand temple in Akarat, and personally met Anya during her initiation rites. During &lt;a href="/wikis/the-fall-of-akarat" class="wiki-page-link"&gt; The Fall of Akarat&lt;/a&gt;, she witnessed Isten meeting Anya on the field of battle and defeating her. She saw Anya flee before Isten, and believes Anya to have abandoned the dragonborn in their final hour.&lt;/p&gt;
+      &lt;p&gt;She broke her oath of protection of the weak, and became an Oathbreaker Paladin. She was sent to the Drow to train in the underdark under the tutelage of their weapons masters.&lt;/p&gt;
+      &lt;p&gt;She was one of the leaders of the monster attack on the Elvish city on the &lt;a href="/wikis/the-isle-of-mists" class="wiki-page-link"&gt; Isle of Mists&lt;/a&gt;, and personally slew the Lord of the Mists in the &lt;a href="/wikis/the-grey-keep" class="wiki-page-link"&gt; Grey Keep&lt;/a&gt;. He cursed her with his dying breath, making her the new Lord of the Mists.&lt;/p&gt;
+      &lt;p&gt;She fell to the party in the Grey Keep after challenging them to combat.&lt;/p&gt;</content>
+      <content gm_only="true" format="textile">Being the Lord of the Mists is not helpful to Korinn, who wants nothing more than to participate in the oppression of Anya's favoured peoples (Elves, Dwarves, Gnomes, Halflings). She is magically forced to remain in the keep, but has a scrying bowl in the throne room. She uses this to watch the mistreatment of slaves on the island in order to amuse herself. The arrival of the PCs gives her great pleasure, as they are the first people she has met in decades (humans do not approach the keep, nor do monsters). She desires play, and will face off with them one by one, reviving them when they have all been beaten. If they all attack her, she will praise them for their tactics, but say that they are futile regardless. 
+
+      If the party defeats her, the mists clear from the island and the party will find that the dangerous reefs will have also retreated, allowing free passage to and from the island. The amulet will glow, and start to glow more violently if not worn. Eventually (after a few minutes of gradually flashing more rapidly and brighter), it will explode. If one of them wears it, they will become the new Lord of the Mists and be able to control the defences but will not be permitted to leave. Since there is no longer a Lord of the Mists, the keep will also start to crumble, and they will have to flee the area.
+
+      If she defeats the party, they will awake in a dungeon beneath the keep. They will be stripped naked, with no hidden lockpicks or weapons (maybe a lockpick, not sure about mechanics). Ways out
+      * Bear breaks the bars down
+      * Dwarf summons warhammer and breaks bars down
+      * Hidden lockpick?
+      * Wait/Make noise
+      **  Spirit of the keep arrives and offers assistance
+      </content>
+      <content gm_only="true" format="html">&lt;p&gt;Being the Lord of the Mists is not helpful to Korinn, who wants nothing more than to participate in the oppression of Anya&amp;#8217;s favoured peoples (Elves, Dwarves, Gnomes, Halflings). She is magically forced to remain in the keep, but has a scrying bowl in the throne room. She uses this to watch the mistreatment of slaves on the island in order to amuse herself. The arrival of the PCs gives her great pleasure, as they are the first people she has met in decades (humans do not approach the keep, nor do monsters). She desires play, and will face off with them one by one, reviving them when they have all been beaten. If they all attack her, she will praise them for their tactics, but say that they are futile regardless.&lt;/p&gt;
+      &lt;p&gt;If the party defeats her, the mists clear from the island and the party will find that the dangerous reefs will have also retreated, allowing free passage to and from the island. The amulet will glow, and start to glow more violently if not worn. Eventually (after a few minutes of gradually flashing more rapidly and brighter), it will explode. If one of them wears it, they will become the new Lord of the Mists and be able to control the defences but will not be permitted to leave. Since there is no longer a Lord of the Mists, the keep will also start to crumble, and they will have to flee the area.&lt;/p&gt;
+      &lt;p&gt;If she defeats the party, they will awake in a dungeon beneath the keep. They will be stripped naked, with no hidden lockpicks or weapons (maybe a lockpick, not sure about mechanics). Ways out&lt;/p&gt;
+      &lt;ul&gt;
+	&lt;li&gt;Bear breaks the bars down&lt;/li&gt;
+	&lt;li&gt;Dwarf summons warhammer and breaks bars down&lt;/li&gt;
+	&lt;li&gt;Hidden lockpick?&lt;/li&gt;
+	&lt;li&gt;Wait/Make noise
+	&lt;ul&gt;
+		&lt;li&gt;Spirit of the keep arrives and offers assistance&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+    </character>
+    <character gm_only="true" pc="false">
+      <id>http://zemia.obsidianportal.com/characters/959858</id>
+      <link>http://zemia.obsidianportal.com/characters/valko-sadett</link>
+      <title>Valko Sadett</title>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="false" format="html"></content>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="false" format="html"></content>
+      <content gm_only="true" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+    </character>
+    <character gm_only="true" pc="false">
+      <id>http://zemia.obsidianportal.com/characters/959859</id>
+      <link>http://zemia.obsidianportal.com/characters/ivo-sadett</link>
+      <title>Ivo Sadett</title>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="false" format="html"></content>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="false" format="html"></content>
+      <content gm_only="true" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+    </character>
+    <character gm_only="true" pc="false">
+      <id>http://zemia.obsidianportal.com/characters/959860</id>
+      <link>http://zemia.obsidianportal.com/characters/yana-sadett</link>
+      <title>Yana Sadett</title>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="false" format="html"></content>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="false" format="html"></content>
+      <content gm_only="true" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+    </character>
+    <character gm_only="true" pc="false">
+      <id>http://zemia.obsidianportal.com/characters/959862</id>
+      <link>http://zemia.obsidianportal.com/characters/raina-sadett</link>
+      <title>Raina Sadett</title>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="false" format="html"></content>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="false" format="html"></content>
+      <content gm_only="true" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+    </character>
+    <character gm_only="true" pc="false">
+      <id>http://zemia.obsidianportal.com/characters/959863</id>
+      <link>http://zemia.obsidianportal.com/characters/kamen-sadett</link>
+      <title>Kamen Sadett</title>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="false" format="html"></content>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="false" format="html"></content>
+      <content gm_only="true" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+    </character>
+    <character gm_only="false" pc="true">
+      <id>http://zemia.obsidianportal.com/characters/1131650</id>
+      <link>http://zemia.obsidianportal.com/characters/1131650</link>
+      <title>Zann Tanawyn Elli Dreena Vanyx Lormil Dunabell of Clan Daergel</title>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="false" format="html"></content>
+      <content gm_only="false" format="textile">&gt; idolized grandfather (and his stories - including all his fathers in whose footsteps he followed) who were talented musicians/bards who played the flute or clarinet or recorder
+      &gt; father was a lawman [the kind that drafts laws, desk job sort of deal]. He wanted nothing to do with his father/bardic stuff
+      &gt; mother was a tinker [fixes things, builds knickknacks, works with mechanisms, invents some stuff])
+      &gt; unfortunately awful/not gifted at playing woodwind instruments 
+      &gt;&gt; tried and tried but couldn't get it
+      &gt; still went to college of lore even though didn't seem to be very musically gifted
+      &gt; did poorly in first year, except for lore class, still trying play flute
+      &gt; second year the same
+      &gt; teacher (halfling named Finnan Reedfellow) assigned to help me (since i was doing poorly) taught me fiddle instead much to my chagrin (and helped with my theory)
+      &gt; a week before the end of year (graded) recital (which are free to the public and other students) I learned my grandfather was planning to attend so I switched my instrument to flute (secretly) and butchered the recital (much to the horror of my teacher) - very embarrassing.
+      &gt; grandfather came in on my teacher severely berating me, and also berated me for not listening to my teacher and for trying to be something i wasn't choosing the flute over the fiddle when it was obviously not the right instrument for me
+      &gt; turns out grandfather knew my teacher (who was an exceptional fiddler) quite well and approved of me learning under him, and left with a stern rebuke to listen to my teacher
+      &gt; things went much better for me at school after that - I learned a lot under my teacher and became a great fiddler and well versed in lore
+      &gt; graduated school, and my graduation recital piece, written by myself of course, called "The Ballad of Bravric the Forgotten" became very popular
+      &gt;&gt; "The Ballad of Bravric the Forgotten" was a humourous tale about a gnomish hero whose exceptional, mundane heroics were outclassed by mediocre opponents who did less mundane heroics
+      (for example, Bravric saved the town of Hagersville who had been struck by a sudden severe drought by ingeniously inventing a windmill to pump clean potable water and building it himself in record time. However, the people of the town soon forgot his heroics when two third-rate adventurers stopped by soon after and rid the town of their "threatening and fearsome" neighbour goblins - which was really just three goblins minding their own business and not even harassing the town at all)</content>
+      <content gm_only="false" format="html">&lt;p&gt;&amp;gt; idolized grandfather (and his stories &amp;#8211; including all his fathers in whose footsteps he followed) who were talented musicians/bards who played the flute or clarinet or recorder&lt;br /&gt;
+      &amp;gt; father was a lawman [the kind that drafts laws, desk job sort of deal]. He wanted nothing to do with his father/bardic stuff&lt;br /&gt;
+      &amp;gt; mother was a tinker [fixes things, builds knickknacks, works with mechanisms, invents some stuff])&lt;br /&gt;
+      &amp;gt; unfortunately awful/not gifted at playing woodwind instruments &lt;br /&gt;
+      &amp;gt;&amp;gt; tried and tried but couldn&amp;#8217;t get it&lt;br /&gt;
+      &amp;gt; still went to college of lore even though didn&amp;#8217;t seem to be very musically gifted&lt;br /&gt;
+      &amp;gt; did poorly in first year, except for lore class, still trying play flute&lt;br /&gt;
+      &amp;gt; second year the same&lt;br /&gt;
+      &amp;gt; teacher (halfling named Finnan Reedfellow) assigned to help me (since i was doing poorly) taught me fiddle instead much to my chagrin (and helped with my theory)&lt;br /&gt;
+      &amp;gt; a week before the end of year (graded) recital (which are free to the public and other students) I learned my grandfather was planning to attend so I switched my instrument to flute (secretly) and butchered the recital (much to the horror of my teacher) &amp;#8211; very embarrassing.&lt;br /&gt;
+      &amp;gt; grandfather came in on my teacher severely berating me, and also berated me for not listening to my teacher and for trying to be something i wasn&amp;#8217;t choosing the flute over the fiddle when it was obviously not the right instrument for me&lt;br /&gt;
+      &amp;gt; turns out grandfather knew my teacher (who was an exceptional fiddler) quite well and approved of me learning under him, and left with a stern rebuke to listen to my teacher&lt;br /&gt;
+      &amp;gt; things went much better for me at school after that &amp;#8211; I learned a lot under my teacher and became a great fiddler and well versed in lore&lt;br /&gt;
+      &amp;gt; graduated school, and my graduation recital piece, written by myself of course, called &amp;#8220;The Ballad of Bravric the Forgotten&amp;#8221; became very popular&lt;br /&gt;
+      &amp;gt;&amp;gt; &amp;#8220;The Ballad of Bravric the Forgotten&amp;#8221; was a humourous tale about a gnomish hero whose exceptional, mundane heroics were outclassed by mediocre opponents who did less mundane heroics&lt;br /&gt;
+      (for example, Bravric saved the town of Hagersville who had been struck by a sudden severe drought by ingeniously inventing a windmill to pump clean potable water and building it himself in record time. However, the people of the town soon forgot his heroics when two third-rate adventurers stopped by soon after and rid the town of their &amp;#8220;threatening and fearsome&amp;#8221; neighbour goblins &amp;#8211; which was really just three goblins minding their own business and not even harassing the town at all)&lt;/p&gt;</content>
+      <content gm_only="true" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+    </character>
+    <character gm_only="false" pc="true">
+      <id>http://zemia.obsidianportal.com/characters/1143878</id>
+      <link>http://zemia.obsidianportal.com/characters/evendur-3</link>
+      <title>Evendur</title>
+      <content gm_only="false" format="textile">Classic sword and board paladin. Uses plate armor and specializes in being the tank and buffing his allies.</content>
+      <content gm_only="false" format="html">&lt;p&gt;Classic sword and board paladin. Uses plate armor and specializes in being the tank and buffing his allies.&lt;/p&gt;</content>
+      <content gm_only="false" format="textile">A young and idealistic paladin who is unusual in the sense that he has been granted powers by Anya, despite being a member of the human race who was responsible for the decline of the followers of Anya. 
+      The party encountered Evendur and recruited him into their party during the events of the [[Silverfield | Silverfield]] rebellion. He was discovered in the bowels of the temple of Isten in Silverfield. It was apparent that he had been tortured for his heresy, his belief in Anya in human lands. 
+
+      h2. Backstory
+
+      Evendur was raised in a noble family, as the eldest son, in the city of Lastport. Growing up Evendur had an easy life, as most noble children do. His parents looked at him as the heir of the family, being the eldest son of six, and also because of  his apparent natural abilities. While Evendur enjoyed the normal joys of a well-to-do boyhood, like getting to mischief with his peers, he took his parents belief in him to heart and worked and studied hard under Theren, who he admired immensely. Theren was an elven elder skilled in the martial arts and academics. His job, as a (relatively,) well off non-human was to educate Evendur in academic subjects and teach him the art of battle. 
+
+      Theren also taught the teachings of Anya to Evendur, without the knowledge of his parents. These teachings augmented Evendur's abilities and made him quite powerful, beyond seemingly what was possible normally for a young man. After a tournament where Evendur bested the Duke's son in a championship bout, the Duke became enraged and ordered an investigation into how Evendur acquired his strength. Shortly it was discovered that Evendur was using the power of Anya, which was taught to him by Theren. Theren was immediately sold off by his parents into slavery. Evendur was offered the opportunity to renounce Anya and continue a normal life. He did not understand how the noble teachings of Anya could be considered harmful and  Evendur rejected this offer, enraged that his mentor had been sold off into slavery. At that moment his swore his Oath of Devotion to Anya and swore that he would find and rescue Theren. He gathered his things and left his hometown, at age 20. </content>
+      <content gm_only="false" format="html">&lt;p&gt;A young and idealistic paladin who is unusual in the sense that he has been granted powers by Anya, despite being a member of the human race who was responsible for the decline of the followers of Anya. &lt;br /&gt;
+      The party encountered Evendur and recruited him into their party during the events of the &lt;a href="/wikis/silverfield" class="wiki-page-link"&gt; Silverfield&lt;/a&gt; rebellion. He was discovered in the bowels of the temple of Isten in Silverfield. It was apparent that he had been tortured for his heresy, his belief in Anya in human lands.&lt;/p&gt;
+      &lt;h2&gt;Backstory&lt;/h2&gt;
+      &lt;p&gt;Evendur was raised in a noble family, as the eldest son, in the city of Lastport. Growing up Evendur had an easy life, as most noble children do. His parents looked at him as the heir of the family, being the eldest son of six, and also because of  his apparent natural abilities. While Evendur enjoyed the normal joys of a well-to-do boyhood, like getting to mischief with his peers, he took his parents belief in him to heart and worked and studied hard under Theren, who he admired immensely. Theren was an elven elder skilled in the martial arts and academics. His job, as a (relatively,) well off non-human was to educate Evendur in academic subjects and teach him the art of battle.&lt;/p&gt;
+      &lt;p&gt;Theren also taught the teachings of Anya to Evendur, without the knowledge of his parents. These teachings augmented Evendur&amp;#8217;s abilities and made him quite powerful, beyond seemingly what was possible normally for a young man. After a tournament where Evendur bested the Duke&amp;#8217;s son in a championship bout, the Duke became enraged and ordered an investigation into how Evendur acquired his strength. Shortly it was discovered that Evendur was using the power of Anya, which was taught to him by Theren. Theren was immediately sold off by his parents into slavery. Evendur was offered the opportunity to renounce Anya and continue a normal life. He did not understand how the noble teachings of Anya could be considered harmful and  Evendur rejected this offer, enraged that his mentor had been sold off into slavery. At that moment his swore his Oath of Devotion to Anya and swore that he would find and rescue Theren. He gathered his things and left his hometown, at age 20.&lt;/p&gt;</content>
+      <content gm_only="true" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+    </character>
+    <character gm_only="true" pc="false">
+      <id>http://zemia.obsidianportal.com/characters/1161852</id>
+      <link>http://zemia.obsidianportal.com/characters/vauldra</link>
+      <title>Vauldra</title>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="false" format="html"></content>
+      <content gm_only="false" format="textile">Vauldra is the cleric of Isten in [[Silverfield]] on [[The Isle of Mists]].</content>
+      <content gm_only="false" format="html">&lt;p&gt;Vauldra is the cleric of Isten in &lt;a href="/wikis/silverfield" class="wiki-page-link"&gt;Silverfield&lt;/a&gt; on &lt;a href="/wikis/the-isle-of-mists" class="wiki-page-link"&gt;The Isle of Mists&lt;/a&gt;.&lt;/p&gt;</content>
+      <content gm_only="true" format="textile">Vauldra first encountered the Party in Silverfield during the revolt. He and his knights were defending the temple of Isten, with many slave casualties. The party slew his knights, and defeated him in combat. He escaped by hiding inside the stone statue in the temple, exiting once the party investigated elsewhere. He has commandeered the last ship in Shipmaker Bay in order to pursue the Party after realizing that the Ral Tanah that left on his ship was an imposter. </content>
+      <content gm_only="true" format="html">&lt;p&gt;Vauldra first encountered the Party in Silverfield during the revolt. He and his knights were defending the temple of Isten, with many slave casualties. The party slew his knights, and defeated him in combat. He escaped by hiding inside the stone statue in the temple, exiting once the party investigated elsewhere. He has commandeered the last ship in Shipmaker Bay in order to pursue the Party after realizing that the Ral Tanah that left on his ship was an imposter.&lt;/p&gt;</content>
+    </character>
+    <character gm_only="false" pc="true">
+      <id>http://zemia.obsidianportal.com/characters/1168740</id>
+      <link>http://zemia.obsidianportal.com/characters/aust</link>
+      <title>Aust</title>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="false" format="html"></content>
+      <content gm_only="false" format="textile"></content>
+      <content gm_only="false" format="html"></content>
+      <content gm_only="true" format="textile"></content>
+      <content gm_only="true" format="html"></content>
+    </character>
+  </characters>
+  <items>
+  </items>
+  <forum>
+    <topic>
+      <id>http://zemia.obsidianportal.com/campaign_forum_topics/119456</id>
+      <link>http://zemia.obsidianportal.com/campaign_forum_topics/idea-for-npc-pages</link>
+      <title>Idea for NPC pages</title>
+      <post>
+        <id>http://zemia.obsidianportal.com/campaign_forum_topics/119456#campaign-forum-post-888844</id>
+        <link>http://zemia.obsidianportal.com/campaign_forum_topics/idea-for-npc-pages#campaign-forum-post-888844</link>
+        <published>2016-09-03T15:35:59Z</published>
+        <author>alancranbury</author>
+        <content format="textile">yeah, that's the plan, there's two fields in the NPC pages, one for characteristics and one for background. I haven't filled out enough of them yet</content>
+        <content format="html">&lt;p&gt;yeah, that&amp;#8217;s the plan, there&amp;#8217;s two fields in the &lt;span class="caps"&gt;NPC&lt;/span&gt; pages, one for characteristics and one for background. I haven&amp;#8217;t filled out enough of them yet&lt;/p&gt;</content>
+      </post>
+      <post>
+        <id>http://zemia.obsidianportal.com/campaign_forum_topics/119456#campaign-forum-post-888841</id>
+        <link>http://zemia.obsidianportal.com/campaign_forum_topics/idea-for-npc-pages#campaign-forum-post-888841</link>
+        <published>2016-09-03T15:31:48Z</published>
+        <author>VarisElfson</author>
+        <content format="textile">Each NPC character page should have a sidebar with some basic characteristics such as appearance, gender, age, occupation, status (alive/dead), home, etc. Sound like a good idea?</content>
+        <content format="html">&lt;p&gt;Each &lt;span class="caps"&gt;NPC&lt;/span&gt; character page should have a sidebar with some basic characteristics such as appearance, gender, age, occupation, status (alive/dead), home, etc. Sound like a good idea?&lt;/p&gt;</content>
+      </post>
+    </topic>
+  </forum>
+</campaign>
